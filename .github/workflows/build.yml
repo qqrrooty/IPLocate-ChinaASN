@@ -1,11 +1,11 @@
 name: Build CN ASN
 
 permissions:
-  contents: write  # 允许 Actions 提交文件
+  contents: write
 
 on:
   schedule:
-    - cron: "0 17 * * *"
+    - cron: "0 17 * * *"  # UTC 17 = CST 01
   workflow_dispatch:
 
 jobs:
@@ -15,11 +15,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 18
+
+      - name: Download latest CSV
+        run: |
+          mkdir -p data
+          curl -L -o data/ip-to-asn.zip https://github.com/iplocate/ip-address-databases/raw/refs/heads/main/ip-to-asn/ip-to-asn.csv.zip
+          unzip -o data/ip-to-asn.zip -d data
+          mv data/ip-to-asn-*.csv data/ip-to-asn.csv
 
       - name: Build CN ASN Files
         run: node scripts/convert.js
