@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2025-12-25 12:00:04.793Z
-# ASN: 909
+# 最后更新： CST 2025-12-26 01:17:07.419Z
+# ASN: 912
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -362,7 +362,6 @@ IP-ASN,146822 // Shenzhenshi Zhongyun Shujujishu Youxiangongsi
 IP-ASN,7653 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,7609 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,58543 // Guangdong
-IP-ASN,149793 // "Xin Yang Bai Xing Network Tecnology Co.
 IP-ASN,136146 // "Beijing 3389 Network Technology Co.
 IP-ASN,146814 // "Hong Kong University of Science and Technology
 IP-ASN,23852 // "17/FL
@@ -469,6 +468,7 @@ IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,136195 // "Qingdao
 IP-ASN,154402 // "Shenzhen FredCloud Computing Technology Co.
+IP-ASN,151251 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
@@ -564,6 +564,7 @@ IP-ASN,24368 // CERNET2 IX at Xiamen University
 IP-ASN,138373 // China Education and Research Network (CERNET)
 IP-ASN,138370 // China Education and Research Network (CERNET)
 IP-ASN,38272 // China Education and Research Network (CERNET)
+IP-ASN,202734 // Junqi Tian
 IP-ASN,211992 // Wei Tang
 IP-ASN,214740 // WENTAO FEI
 IP-ASN,59265 // China telecom â China Next Generation Internet
@@ -644,7 +645,6 @@ IP-ASN,152922 // Zhang Fuyu
 IP-ASN,152930 // Lin Xiangliang
 IP-ASN,153033 // Shang Xu
 IP-ASN,153034 // Wang Lin
-IP-ASN,132479 // Xue Desen
 IP-ASN,136535 // Yang Mengqi
 IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
@@ -660,6 +660,7 @@ IP-ASN,152631 // Xyhelper Inc
 IP-ASN,152598 // Beijing Gong Gong Fa Technology Co Ltd
 IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
+IP-ASN,132479 // Xue Desen
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,151193 // Shandong Deju Information Technology Co Ltd
 IP-ASN,151331 // Sora You
@@ -830,6 +831,7 @@ IP-ASN,200536 // Bo Xu
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,216056 // Jingqiu Xu
 IP-ASN,215265 // Lie Hu
+IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,200853 // Yifan Li
 IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,200268 // Haihan Chen
@@ -882,6 +884,7 @@ IP-ASN,154185 // Liu HaoRan
 IP-ASN,214610 // YangXu Liao
 IP-ASN,216256 // HUANG SISOU
 IP-ASN,198266 // Yunrui Gu
+IP-ASN,214704 // Xin Zhao
 IP-ASN,215315 // LIZI LUO
 IP-ASN,151673 // Chen Xinyu
 IP-ASN,215832 // Jian Xu
