@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2025-12-26 01:17:07.419Z
-# ASN: 912
+# 最后更新： CST 2025-12-27 01:16:27.641Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -77,6 +77,7 @@ IP-ASN,134760 // "Shijiazhuang IDC network
 IP-ASN,135040 // "Dongguan Xingxiu Technology Co.
 IP-ASN,58461 // "No.288
 IP-ASN,140485 // China Telecom
+IP-ASN,140486 // China Telecom
 IP-ASN,136190 // "JINHUA
 IP-ASN,140726 // China Unicom
 IP-ASN,17962 // ShenZhen Topway Video Communication Co. Ltd
@@ -244,7 +245,6 @@ IP-ASN,18245 // CNNIC
 IP-ASN,63620 // "ShenZhen HuaBo Technology Develop Co.
 IP-ASN,37937 // China eGovNet Information Center
 IP-ASN,152120 // China Unicom
-IP-ASN,140486 // China Telecom
 IP-ASN,136188 // "NINGBO
 IP-ASN,141998 // China Telecom
 IP-ASN,147038 // China Telecom
@@ -484,7 +484,6 @@ IP-ASN,136769 // "Guangzhou Fengyun Information Technology Co.
 IP-ASN,24349 // CERNET2 IX at Peking University
 IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
 IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
-IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,58862 // "Microsoft (China) Co.
 IP-ASN,38027 // "Information Center
 IP-ASN,141776 // Baoshuo Network
@@ -813,6 +812,7 @@ IP-ASN,140377 // China Telecom
 IP-ASN,140378 // China Telecom
 IP-ASN,215507 // KAI BI
 IP-ASN,204518 // Shiyu Zhou
+IP-ASN,214955 // Weikang Zeng
 IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,204185 // Yuchen Ma
@@ -824,6 +824,7 @@ IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,215502 // Xing Qingyu
 IP-ASN,208679 // YIKAI-ZHAO
+IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
 IP-ASN,200890 // Jianfeng Ren
 IP-ASN,206729 // Vincent Yang
@@ -840,7 +841,6 @@ IP-ASN,200256 // Yue Cao
 IP-ASN,200103 // XUAN ZHU
 IP-ASN,200789 // Wei Teng LIn
 IP-ASN,200936 // Chengjie Guo
-IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,200545 // Liu Quanhao
 IP-ASN,205794 // JINZE YANG
 IP-ASN,214660 // junlin chen
@@ -878,7 +878,6 @@ IP-ASN,210352 // Yijia Xu
 IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
-IP-ASN,214955 // Weikang Zeng
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,154185 // Liu HaoRan
 IP-ASN,214610 // YangXu Liao
