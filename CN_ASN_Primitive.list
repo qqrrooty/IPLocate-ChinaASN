@@ -1,10 +1,10 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2025-12-30 01:17:32.403Z
-# ASN: 910
+# 最后更新： CST 2025-12-31 01:19:22.953Z
+# ASN: 912
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
-IP-ASN,24151 // China Internet Network Infomation Center
+IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,38345 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
 IP-ASN,45090 // Shenzhen Tencent Computer Systems Company Limited
 IP-ASN,132203 // Shenzhen Tencent Computer Systems Company Limited
@@ -126,8 +126,8 @@ IP-ASN,56048 // China Mobile Communications Corporation
 IP-ASN,58593 // "Shanghai Blue Cloud Technology Co.
 IP-ASN,56005 // "Zhengzhou Fastidc Technology Co.
 IP-ASN,58542 // "Tianjij
+IP-ASN,24151 // China Internet Network Infomation Center
 IP-ASN,24406 // China Internet Network Infomation Center
-IP-ASN,24409 // China Internet Network Infomation Center
 IP-ASN,139767 // China Telecom
 IP-ASN,137698 // "Haerbing
 IP-ASN,132536 // China Telecom
@@ -206,6 +206,7 @@ IP-ASN,131325 // CHINATELECOM JIANGSU province NANTONG MAN network
 IP-ASN,55967 // "Beijing Baidu Netcom Science and Technology Co.
 IP-ASN,45061 // "Shanghai Information Network Co.
 IP-ASN,63701 // "Jishi Media Co .
+IP-ASN,151253 // China Internet Network Information Center
 IP-ASN,63583 // Chinese Academy of Telecommunication Research
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
@@ -372,6 +373,7 @@ IP-ASN,23771 // "SXBCTV
 IP-ASN,136180 // "Beijing Tiantexin Tech. Co.
 IP-ASN,63561 // "China Electronics Technology Cyber Security Co.
 IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
+IP-ASN,151232 // China Internet Network Information Center
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,58854 // Kaopu Cloud
@@ -652,7 +654,7 @@ IP-ASN,153332 // InnoCloud Services LLC
 IP-ASN,153458 // Haruzakura Cloud
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152134 // Zoro Limited
-IP-ASN,152118 // Shenzhen Mengsi Computer System Co Ltd
+IP-ASN,152118 // Shenzhen Moesys Computer System Co Ltd
 IP-ASN,139791 // Langfang Wopai Communications Co Ltd
 IP-ASN,152631 // Xyhelper Inc
 IP-ASN,152598 // Beijing Gong Gong Fa Technology Co Ltd
@@ -905,9 +907,9 @@ IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
 IP-ASN,213629 // ZEXIN CHEN
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
-IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
+IP-ASN,210176 // Haoyi Xiang
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
