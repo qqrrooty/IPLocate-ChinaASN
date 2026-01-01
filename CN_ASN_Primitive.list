@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-01 01:17:43.875Z
-# ASN: 911
+# 最后更新： CST 2026-01-02 01:18:37.335Z
+# ASN: 913
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -111,16 +111,15 @@ IP-ASN,56045 // China Mobile Communications Corporation
 IP-ASN,24547 // China Mobile
 IP-ASN,56046 // China Mobile Communications Corporation
 IP-ASN,24445 // China Mobile
+IP-ASN,56040 // China Mobile Communications Corporation
 IP-ASN,63531 // "Beijing BAIWU Technology Co.
 IP-ASN,141425 // China Mobile Communications Corporation
 IP-ASN,139080 // China Mobile Communications Corporation
-IP-ASN,56040 // China Mobile Communications Corporation
 IP-ASN,24444 // China Mobile
 IP-ASN,24138 // China TieTong Telecommunications Corporation
 IP-ASN,63571 // "Shenzhen cyberlink Century Investment Co.
 IP-ASN,212371 // "Huizhou HuiGu CloudTech Co.
 IP-ASN,10111 // Zeofast Network
-IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,24400 // China Mobile
 IP-ASN,56048 // China Mobile Communications Corporation
 IP-ASN,58593 // "Shanghai Blue Cloud Technology Co.
@@ -211,7 +210,10 @@ IP-ASN,63583 // Chinese Academy of Telecommunication Research
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
+IP-ASN,139888 // Time Network
+IP-ASN,207901 // ZHOU ZEFENG
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
+IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,137702 // China Telecom
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
@@ -266,7 +268,7 @@ IP-ASN,140083 // China Telecom
 IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,205027 // "Fengnayun Data Co.
-IP-ASN,148982 // Bijie Qiulin Information Technology
+IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212164 // Jiaxian He
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
@@ -630,10 +632,10 @@ IP-ASN,153186 // Xu Jiayou
 IP-ASN,153187 // Wu Chunyu
 IP-ASN,153189 // Wang Jianwei
 IP-ASN,153190 // Zhang Chong
-IP-ASN,139888 // Time Network
 IP-ASN,149510 // Feng Libo
 IP-ASN,153331 // Chen Wei
 IP-ASN,153333 // Fu Jiechun
+IP-ASN,132623 // Tsukeru Networks
 IP-ASN,153057 // Li Ruizhi
 IP-ASN,153168 // Lu Bin
 IP-ASN,153170 // Cui Hongtao
@@ -665,7 +667,6 @@ IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
 IP-ASN,151494 // Lin Kangyi
 IP-ASN,150141 // Wang Jiacheng
-IP-ASN,132623 // Tsukeru Networks
 IP-ASN,139231 // Zero
 IP-ASN,141445 // Phoenix Network
 IP-ASN,137721 // HENTE
@@ -862,6 +863,7 @@ IP-ASN,198516 // Yi Huang
 IP-ASN,214921 // Yisong Wang
 IP-ASN,214871 // Jiping Yu
 IP-ASN,214613 // YANG MAN
+IP-ASN,207292 // YANG HAOJING
 IP-ASN,206843 // Jikai Ren
 IP-ASN,211968 // Chenran MU
 IP-ASN,211158 // Jun CAO

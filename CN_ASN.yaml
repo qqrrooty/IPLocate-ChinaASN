@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-01 01:17:43.875Z
-# ASN: 911
+# 最后更新： CST 2026-01-02 01:18:37.335Z
+# ASN: 913
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -112,16 +112,15 @@ payload:
   - IP-ASN,24547,no-resolve
   - IP-ASN,56046,no-resolve
   - IP-ASN,24445,no-resolve
+  - IP-ASN,56040,no-resolve
   - IP-ASN,63531,no-resolve
   - IP-ASN,141425,no-resolve
   - IP-ASN,139080,no-resolve
-  - IP-ASN,56040,no-resolve
   - IP-ASN,24444,no-resolve
   - IP-ASN,24138,no-resolve
   - IP-ASN,63571,no-resolve
   - IP-ASN,212371,no-resolve
   - IP-ASN,10111,no-resolve
-  - IP-ASN,214439,no-resolve
   - IP-ASN,24400,no-resolve
   - IP-ASN,56048,no-resolve
   - IP-ASN,58593,no-resolve
@@ -212,7 +211,10 @@ payload:
   - IP-ASN,138457,no-resolve
   - IP-ASN,135054,no-resolve
   - IP-ASN,133219,no-resolve
+  - IP-ASN,139888,no-resolve
+  - IP-ASN,207901,no-resolve
   - IP-ASN,152711,no-resolve
+  - IP-ASN,146772,no-resolve
   - IP-ASN,151270,no-resolve
   - IP-ASN,137702,no-resolve
   - IP-ASN,134772,no-resolve
@@ -267,7 +269,7 @@ payload:
   - IP-ASN,9394,no-resolve
   - IP-ASN,131524,no-resolve
   - IP-ASN,205027,no-resolve
-  - IP-ASN,148982,no-resolve
+  - IP-ASN,214439,no-resolve
   - IP-ASN,42962,no-resolve
   - IP-ASN,212164,no-resolve
   - IP-ASN,59068,no-resolve
@@ -631,10 +633,10 @@ payload:
   - IP-ASN,153187,no-resolve
   - IP-ASN,153189,no-resolve
   - IP-ASN,153190,no-resolve
-  - IP-ASN,139888,no-resolve
   - IP-ASN,149510,no-resolve
   - IP-ASN,153331,no-resolve
   - IP-ASN,153333,no-resolve
+  - IP-ASN,132623,no-resolve
   - IP-ASN,153057,no-resolve
   - IP-ASN,153168,no-resolve
   - IP-ASN,153170,no-resolve
@@ -666,7 +668,6 @@ payload:
   - IP-ASN,142642,no-resolve
   - IP-ASN,151494,no-resolve
   - IP-ASN,150141,no-resolve
-  - IP-ASN,132623,no-resolve
   - IP-ASN,139231,no-resolve
   - IP-ASN,141445,no-resolve
   - IP-ASN,137721,no-resolve
@@ -863,6 +864,7 @@ payload:
   - IP-ASN,214921,no-resolve
   - IP-ASN,214871,no-resolve
   - IP-ASN,214613,no-resolve
+  - IP-ASN,207292,no-resolve
   - IP-ASN,206843,no-resolve
   - IP-ASN,211968,no-resolve
   - IP-ASN,211158,no-resolve
