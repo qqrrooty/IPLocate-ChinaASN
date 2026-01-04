@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-04 01:16:39.442Z
-# ASN: 911
+# 最后更新： CST 2026-01-05 01:16:33.532Z
+# ASN: 912
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -196,7 +196,6 @@ IP-ASN,209306 // Jin Shaohai
 IP-ASN,215786 // Peng Wang
 IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,199392 // SHIZHENG NIE
-IP-ASN,153633 // KVQNET
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
 IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
@@ -542,7 +541,6 @@ IP-ASN,146841 // Tianjin GiantDC Data Technology Co.Ltd
 IP-ASN,9392 // APT MOBILE SATCOM LIMITED
 IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,63555 // Beijing Beilong Yunhai Network Data Technology Corporation
-IP-ASN,45064 // "BEIJING ZHONGGUANCUN SOFTWARE PARK DEVELOPMENT CO.
 IP-ASN,149178 // China Telecom
 IP-ASN,132833 // China Telecom
 IP-ASN,56000 // "HERBALIFE(SHANGHAI)MANAGEMENT CO.
@@ -651,6 +649,7 @@ IP-ASN,152921 // Yu Dong
 IP-ASN,152892 // Liu Jiarong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
+IP-ASN,153633 // KVQNET
 IP-ASN,153458 // Haruzakura Cloud
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152134 // Zoro Limited
@@ -754,6 +753,7 @@ IP-ASN,140650 // China Telecom
 IP-ASN,140651 // China Telecom
 IP-ASN,140652 // China Telecom
 IP-ASN,140653 // China Telecom
+IP-ASN,140654 // China Telecom
 IP-ASN,140655 // China Telecom
 IP-ASN,140656 // China Telecom
 IP-ASN,140657 // China Telecom
@@ -816,7 +816,6 @@ IP-ASN,214955 // Weikang Zeng
 IP-ASN,214933 // Bingxin Liu
 IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
-IP-ASN,198025 // Yucheng Zhu
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,216412 // YANG FANG
@@ -877,6 +876,7 @@ IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,210352 // Yijia Xu
+IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
@@ -908,6 +908,7 @@ IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,210176 // Haoyi Xiang
+IP-ASN,198025 // Yucheng Zhu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
