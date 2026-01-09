@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-09 01:25:55.161Z
-# ASN: 913
+# 最后更新： CST 2026-01-10 01:21:55.192Z
+# ASN: 915
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -75,6 +75,7 @@ IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
 IP-ASN,134760 // "Shijiazhuang IDC network
 IP-ASN,135040 // "Dongguan Xingxiu Technology Co.
+IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
 IP-ASN,58461 // "No.288
 IP-ASN,140485 // China Telecom
 IP-ASN,140486 // China Telecom
@@ -163,6 +164,7 @@ IP-ASN,63647 // Beijing WangJu Interworking Information Technology Co. LTD
 IP-ASN,139118 // "Shanghai Rugu Info&Tech Co.
 IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
+IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
 IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,151302 // China Internet Network Information Center
@@ -266,6 +268,7 @@ IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,58026 // "Xiamen Jiufu Network Co.
+IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212164 // Jiaxian He
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
@@ -282,7 +285,6 @@ IP-ASN,150374 // Jiang Men Shi Tian Da Cloud Co. Ltd
 IP-ASN,55966 // "Post Savings Bank of China Tower A
 IP-ASN,59067 // "Microsoft Mobile Alliance Internet Services Co.
 IP-ASN,59019 // "Beijing Kingsoft Cloud Internet Technology Co.
-IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,38378 // Bosch (China) Investment Ltd.
 IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
@@ -500,6 +502,7 @@ IP-ASN,132510 // China Mobile Communications Corporation
 IP-ASN,51928 // SHIZHE XU
 IP-ASN,44421 // Yifu Yu
 IP-ASN,205651 // Hao Qiao
+IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,151397 // China Telecom
 IP-ASN,151464 // "Shanghai Luogu Network Technology Co.
 IP-ASN,9805 // SIEMENS LTD. CHINA
@@ -819,6 +822,7 @@ IP-ASN,214955 // Weikang Zeng
 IP-ASN,214933 // Bingxin Liu
 IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
+IP-ASN,198025 // Yucheng Zhu
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,216412 // YANG FANG
@@ -905,14 +909,12 @@ IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
 IP-ASN,213629 // ZEXIN CHEN
-IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,210176 // Haoyi Xiang
-IP-ASN,205369 // LI YIRAN
-IP-ASN,198025 // Yucheng Zhu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
+IP-ASN,205369 // LI YIRAN
 IP-ASN,205008 // HUANG JUNQI
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
