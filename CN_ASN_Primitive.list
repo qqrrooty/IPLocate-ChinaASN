@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-12 01:16:36.401Z
-# ASN: 915
+# 最后更新： CST 2026-01-13 01:23:08.372Z
+# ASN: 916
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -193,7 +193,6 @@ IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
 IP-ASN,203236 // Mingyang Shen
-IP-ASN,209574 // Xiao Tan
 IP-ASN,209306 // Jin Shaohai
 IP-ASN,215786 // Peng Wang
 IP-ASN,209650 // Wu Zhiyuan
@@ -671,6 +670,7 @@ IP-ASN,150373 // Zhang Bocheng
 IP-ASN,151193 // Shandong Deju Information Technology Co Ltd
 IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
+IP-ASN,212831 // Liang Zhan Ming
 IP-ASN,151494 // Lin Kangyi
 IP-ASN,150141 // Wang Jiacheng
 IP-ASN,139231 // Zero
@@ -760,6 +760,7 @@ IP-ASN,140650 // China Telecom
 IP-ASN,140651 // China Telecom
 IP-ASN,140652 // China Telecom
 IP-ASN,140653 // China Telecom
+IP-ASN,140654 // China Telecom
 IP-ASN,140655 // China Telecom
 IP-ASN,140656 // China Telecom
 IP-ASN,140657 // China Telecom
@@ -826,6 +827,7 @@ IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,216412 // YANG FANG
 IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
+IP-ASN,209574 // Xiao Tan
 IP-ASN,197433 // XuanMing Liu
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
@@ -890,7 +892,6 @@ IP-ASN,214610 // YangXu Liao
 IP-ASN,216256 // HUANG SISOU
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,214704 // Xin Zhao
-IP-ASN,215315 // LIZI LUO
 IP-ASN,151673 // Chen Xinyu
 IP-ASN,215832 // Jian Xu
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
@@ -911,10 +912,10 @@ IP-ASN,213629 // ZEXIN CHEN
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,210176 // Haoyi Xiang
+IP-ASN,205369 // LI YIRAN
 IP-ASN,198025 // Yucheng Zhu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
-IP-ASN,205369 // LI YIRAN
 IP-ASN,205008 // HUANG JUNQI
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.

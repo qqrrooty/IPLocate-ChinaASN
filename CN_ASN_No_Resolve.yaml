@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-12 01:16:36.401Z
-# ASN: 915
+# 最后更新： CST 2026-01-13 01:23:08.372Z
+# ASN: 916
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -194,7 +194,6 @@ payload:
   - IP-ASN,209294
   - IP-ASN,133555
   - IP-ASN,203236
-  - IP-ASN,209574
   - IP-ASN,209306
   - IP-ASN,215786
   - IP-ASN,209650
@@ -672,6 +671,7 @@ payload:
   - IP-ASN,151193
   - IP-ASN,151331
   - IP-ASN,142642
+  - IP-ASN,212831
   - IP-ASN,151494
   - IP-ASN,150141
   - IP-ASN,139231
@@ -761,6 +761,7 @@ payload:
   - IP-ASN,140651
   - IP-ASN,140652
   - IP-ASN,140653
+  - IP-ASN,140654
   - IP-ASN,140655
   - IP-ASN,140656
   - IP-ASN,140657
@@ -827,6 +828,7 @@ payload:
   - IP-ASN,209645
   - IP-ASN,216412
   - IP-ASN,209484
+  - IP-ASN,209574
   - IP-ASN,197433
   - IP-ASN,214203
   - IP-ASN,214040
@@ -891,7 +893,6 @@ payload:
   - IP-ASN,216256
   - IP-ASN,198266
   - IP-ASN,214704
-  - IP-ASN,215315
   - IP-ASN,151673
   - IP-ASN,215832
   - IP-ASN,213116
@@ -912,10 +913,10 @@ payload:
   - IP-ASN,207299
   - IP-ASN,207091
   - IP-ASN,210176
+  - IP-ASN,205369
   - IP-ASN,198025
   - IP-ASN,203643
   - IP-ASN,207317
   - IP-ASN,216100
-  - IP-ASN,205369
   - IP-ASN,205008
   - IP-ASN,204211
