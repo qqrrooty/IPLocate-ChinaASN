@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-13 01:23:08.372Z
+# 最后更新： CST 2026-01-14 01:25:22.005Z
 # ASN: 916
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -75,7 +75,6 @@ IP-ASN,58772 // CHINANET Fujian province Fuzhou IDC network
 IP-ASN,133775 // Xiamen
 IP-ASN,134760 // "Shijiazhuang IDC network
 IP-ASN,135040 // "Dongguan Xingxiu Technology Co.
-IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
 IP-ASN,58461 // "No.288
 IP-ASN,140485 // China Telecom
 IP-ASN,140486 // China Telecom
@@ -199,7 +198,7 @@ IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
 IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
-IP-ASN,4842 // Tianhai InfoTech
+IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,205610 // Huanjie Zhu
 IP-ASN,131325 // CHINATELECOM JIANGSU province NANTONG MAN network
 IP-ASN,55967 // "Beijing Baidu Netcom Science and Technology Co.
@@ -266,8 +265,6 @@ IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
-IP-ASN,58026 // "Xiamen Jiufu Network Co.
-IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212164 // Jiaxian He
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
@@ -327,6 +324,7 @@ IP-ASN,137715 // GTJA Securities
 IP-ASN,138029 // "Shen Zhen Hu Lian Xian Feng Technology Co.
 IP-ASN,137785 // "CACloud Services (Shanghai) Co.
 IP-ASN,139138 // "Gopay Information Technology Co.
+IP-ASN,58026 // "Xiamen Jiufu Network Co.
 IP-ASN,137758 // "Industrial and Commercial Bank of China Limited
 IP-ASN,137571 // "Rang Yang Bai Shi Chuang Yun Co.
 IP-ASN,136197 // "Xiong'an
@@ -474,9 +472,9 @@ IP-ASN,151251 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
-IP-ASN,212053 // ShiJI Tong
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
 IP-ASN,152920 // Zhao Chenglin
+IP-ASN,210634 // "Suzhou Yesong Information Technology Co.
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,211265 // GUI JIANG
 IP-ASN,63538 // "Accenture (China) Co.
@@ -501,7 +499,6 @@ IP-ASN,132510 // China Mobile Communications Corporation
 IP-ASN,51928 // SHIZHE XU
 IP-ASN,44421 // Yifu Yu
 IP-ASN,205651 // Hao Qiao
-IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,151397 // China Telecom
 IP-ASN,151464 // "Shanghai Luogu Network Technology Co.
 IP-ASN,9805 // SIEMENS LTD. CHINA
@@ -577,6 +574,7 @@ IP-ASN,140043 // "Guangzhou Jinggong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
 IP-ASN,151951 // "Shenzhen lesuyun Network Technology Co.
+IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,151483 // Beijing Chuangzhijie Tech. Co. Ltd.
 IP-ASN,216173 // Guozhen Liu
 IP-ASN,9425 // China Education and Research Network (CERNET)
@@ -589,7 +587,6 @@ IP-ASN,137256 // CatIO Network
 IP-ASN,133492 // "Aiyun Technology Co.
 IP-ASN,139100 // BMW Brilliance Automotive Ltd.
 IP-ASN,45576 // Tsinghua University
-IP-ASN,213903 // Liuyang Zhang
 IP-ASN,207338 // Zhang Zongyu
 IP-ASN,139859 // TemasekTech.com
 IP-ASN,18257 // "ChangZhou Bitcomm Software Technology Co.
@@ -861,6 +858,7 @@ IP-ASN,49904 // Xiaodong Qi
 IP-ASN,215007 // BOZHAN LIANG
 IP-ASN,207615 // XINYU ZHANG
 IP-ASN,209586 // SUNYOU PAN
+IP-ASN,212053 // ShiJI Tong
 IP-ASN,215969 // Tan Zhang
 IP-ASN,209261 // Qiao Jiang
 IP-ASN,210426 // Liang Zhu
@@ -892,6 +890,7 @@ IP-ASN,214610 // YangXu Liao
 IP-ASN,216256 // HUANG SISOU
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,214704 // Xin Zhao
+IP-ASN,215315 // LIZI LUO
 IP-ASN,151673 // Chen Xinyu
 IP-ASN,215832 // Jian Xu
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
@@ -909,6 +908,7 @@ IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
 IP-ASN,213629 // ZEXIN CHEN
+IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,210176 // Haoyi Xiang
