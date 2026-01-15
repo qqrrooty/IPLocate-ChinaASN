@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-15 01:26:06.863Z
-# ASN: 917
+# 最后更新： CST 2026-01-16 01:30:56.376Z
+# ASN: 916
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -102,6 +102,7 @@ IP-ASN,9808 // China Mobile
 IP-ASN,56044 // China Mobile Communications Corporation
 IP-ASN,132525 // China Mobile Communications Corporation
 IP-ASN,56047 // China Mobile Communications Corporation
+IP-ASN,24400 // China Mobile
 IP-ASN,56041 // China Mobile Communications Corporation
 IP-ASN,38019 // China Mobile
 IP-ASN,134810 // China Mobile Communications Corporation
@@ -119,7 +120,6 @@ IP-ASN,24138 // China TieTong Telecommunications Corporation
 IP-ASN,63571 // "Shenzhen cyberlink Century Investment Co.
 IP-ASN,212371 // "Huizhou HuiGu CloudTech Co.
 IP-ASN,10111 // Zeofast Network
-IP-ASN,24400 // China Mobile
 IP-ASN,56048 // China Mobile Communications Corporation
 IP-ASN,58593 // "Shanghai Blue Cloud Technology Co.
 IP-ASN,56005 // "Zhengzhou Fastidc Technology Co.
@@ -892,7 +892,6 @@ IP-ASN,216256 // HUANG SISOU
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,214704 // Xin Zhao
 IP-ASN,215315 // LIZI LUO
-IP-ASN,151673 // Chen Xinyu
 IP-ASN,215832 // Jian Xu
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
@@ -904,7 +903,6 @@ IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
 IP-ASN,210738 // Peng Chen
 IP-ASN,212985 // Mingjie Wu
-IP-ASN,214843 // Haoyu Yang
 IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
@@ -918,5 +916,6 @@ IP-ASN,198025 // Yucheng Zhu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
+IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
