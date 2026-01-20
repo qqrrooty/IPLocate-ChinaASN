@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-20 01:22:42.207Z
-# ASN: 910
+# 最后更新： CST 2026-01-21 01:28:12.165Z
+# ASN: 912
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -191,6 +191,7 @@ IP-ASN,210041 // Licheng MAO
 IP-ASN,139073 // Fantasy Sky Internet eXchange
 IP-ASN,50922 // SHI Li Li
 IP-ASN,133555 // DOORPOST Limited
+IP-ASN,203236 // Mingyang Shen
 IP-ASN,209306 // Jin Shaohai
 IP-ASN,215786 // Peng Wang
 IP-ASN,209650 // Wu Zhiyuan
@@ -523,6 +524,7 @@ IP-ASN,17739 // Shanghai Telecom Haplink Network Co Ltd (Haplink)
 IP-ASN,45071 // "No.8 Xing Guang 5th Street
 IP-ASN,56012 // LGNET China
 IP-ASN,24141 // "Shanghai DMT Information Network cor.
+IP-ASN,150184 // Chen Chi
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,17776 // China Enterprise ICT Solutions Limited
 IP-ASN,38358 // "3 Fuxing Road
@@ -606,7 +608,6 @@ IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
 IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
 IP-ASN,140915 // Xiang Xuanchen
 IP-ASN,211575 // Rui Feng
-IP-ASN,150184 // Chen Chi
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
@@ -887,6 +888,7 @@ IP-ASN,214207 // Xiao Wang
 IP-ASN,211721 // HUANG YUCHAO
 IP-ASN,214610 // YangXu Liao
 IP-ASN,216256 // HUANG SISOU
+IP-ASN,198266 // Yunrui Gu
 IP-ASN,214704 // Xin Zhao
 IP-ASN,215315 // LIZI LUO
 IP-ASN,215832 // Jian Xu
