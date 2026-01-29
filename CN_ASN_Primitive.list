@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-29 01:31:12.535Z
-# ASN: 911
+# 最后更新： CST 2026-01-30 01:36:35.550Z
+# ASN: 910
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -195,7 +195,6 @@ IP-ASN,209306 // Jin Shaohai
 IP-ASN,215786 // Peng Wang
 IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,199392 // SHIZHENG NIE
-IP-ASN,153633 // KVQNET
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
 IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
@@ -399,7 +398,6 @@ IP-ASN,45113 // "Shanxi Datong Coal Group Communication Co.
 IP-ASN,132225 // China Telecom
 IP-ASN,59223 // CHINANET Qinghai province IDC network
 IP-ASN,140105 // China Mobile Communications Corporation
-IP-ASN,23841 // "6/F
 IP-ASN,138982 // China Telecom
 IP-ASN,136194 // "Huangshi
 IP-ASN,131285 // China Telecom
@@ -650,6 +648,7 @@ IP-ASN,152921 // Yu Dong
 IP-ASN,152892 // Liu Jiarong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
+IP-ASN,153633 // KVQNET
 IP-ASN,153458 // Haruzakura Cloud
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152134 // Zoro Limited
