@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-01-31 01:32:29.775Z
-# ASN: 909
+# 最后更新： CST 2026-02-01 01:22:33.684Z
+# ASN: 912
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -295,6 +295,7 @@ IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
 IP-ASN,4611 // CNNIC member
 IP-ASN,132019 // "Earth network technology (Shanghai) Co.
 IP-ASN,139177 // New Oriental Education & Technology Group Ltd.
+IP-ASN,63633 // "GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.
 IP-ASN,63646 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,151295 // China Internet Network Information Center
 IP-ASN,63629 // "Beijing Autohome imformation technology Co.
@@ -329,6 +330,7 @@ IP-ASN,139138 // "Gopay Information Technology Co.
 IP-ASN,137758 // "Industrial and Commercial Bank of China Limited
 IP-ASN,137571 // "Rang Yang Bai Shi Chuang Yun Co.
 IP-ASN,136197 // "Xiong'an
+IP-ASN,139743 // "Shen Zhen Shi Fang Technology Co.
 IP-ASN,146782 // University Of Chinese Academy Of Social Sciences
 IP-ASN,137759 // "MTS SYSTEM (China) Co.
 IP-ASN,135432 // Visa Information Technology Beijing Co. Ltd.
@@ -604,7 +606,7 @@ IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
 IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
 IP-ASN,140915 // Xiang Xuanchen
 IP-ASN,211575 // Rui Feng
-IP-ASN,151194 // Zhu Yucheng
+IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
 IP-ASN,136591 // MxxCloud LLC
 IP-ASN,134488 // CTJ's Global Network
@@ -643,12 +645,12 @@ IP-ASN,152930 // Lin Xiangliang
 IP-ASN,153033 // Shang Xu
 IP-ASN,153034 // Wang Lin
 IP-ASN,136535 // Yang Mengqi
+IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
 IP-ASN,152892 // Liu Jiarong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
 IP-ASN,153633 // KVQNET
-IP-ASN,138535 // Wu Qi
 IP-ASN,153458 // Haruzakura Cloud
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152134 // Zoro Limited
@@ -666,6 +668,7 @@ IP-ASN,142642 // Atonal System
 IP-ASN,151494 // Lin Kangyi
 IP-ASN,150141 // Wang Jiacheng
 IP-ASN,139231 // Zero
+IP-ASN,151194 // Zhu Yucheng
 IP-ASN,141445 // Phoenix Network
 IP-ASN,137721 // HENTE
 IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
