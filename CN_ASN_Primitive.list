@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-07 01:40:24.171Z
-# ASN: 911
+# 最后更新： CST 2026-02-08 01:24:49.618Z
+# ASN: 916
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -190,6 +190,7 @@ IP-ASN,139073 // Fantasy Sky Internet eXchange
 IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
+IP-ASN,209574 // Xiao Tan
 IP-ASN,209306 // Jin Shaohai
 IP-ASN,215786 // Peng Wang
 IP-ASN,209650 // Wu Zhiyuan
@@ -211,6 +212,7 @@ IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,139888 // Time Network
 IP-ASN,207901 // ZHOU ZEFENG
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
+IP-ASN,201765 // JunYi Li
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
@@ -379,6 +381,7 @@ IP-ASN,59073 // Bank of China Limited
 IP-ASN,133475 // New York University
 IP-ASN,55982 // "Changhong IT information Products CO.
 IP-ASN,55971 // Chinese Academy of Social Sciences
+IP-ASN,138979 // "Guangzhou Shujie Suyuan Culture Communication Co.
 IP-ASN,24404 // "CNISP-Union Technology (Beijing) Co.
 IP-ASN,146835 // "Nanchang index technology development Co.
 IP-ASN,58850 // Bloomberg Financial Information (Beijing) Co Ltd
@@ -823,9 +826,9 @@ IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,216412 // YANG FANG
 IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
-IP-ASN,209574 // Xiao Tan
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
+IP-ASN,201674 // Wen ZhangYu
 IP-ASN,215502 // Xing Qingyu
 IP-ASN,208679 // YIKAI-ZHAO
 IP-ASN,200959 // Yaoxuan Chen
@@ -907,6 +910,7 @@ IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,212831 // Liang Zhan Ming
 IP-ASN,205369 // LI YIRAN
+IP-ASN,201944 // HaoRan Liu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
@@ -914,3 +918,4 @@ IP-ASN,209601 // Yu ZuYuan
 IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
+IP-ASN,201705 // Xinrun Li
