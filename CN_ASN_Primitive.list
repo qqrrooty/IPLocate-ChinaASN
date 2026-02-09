@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-09 01:24:52.150Z
-# ASN: 916
+# 最后更新： CST 2026-02-10 01:50:26.582Z
+# ASN: 917
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -50,6 +50,7 @@ IP-ASN,140311 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
+IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
 IP-ASN,133774 // Fuzhou
 IP-ASN,63614 // "A4
@@ -195,6 +196,7 @@ IP-ASN,209306 // Jin Shaohai
 IP-ASN,215786 // Peng Wang
 IP-ASN,209650 // Wu Zhiyuan
 IP-ASN,199392 // SHIZHENG NIE
+IP-ASN,153376 // Jilin Province Brick Business Service Limited
 IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,148982 // Bijie Qiulin Information Technology
@@ -268,7 +270,6 @@ IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,58026 // "Xiamen Jiufu Network Co.
-IP-ASN,207091 // Wang Junhao
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212164 // Jiaxian He
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
@@ -475,6 +476,7 @@ IP-ASN,151251 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
+IP-ASN,142207 // "WJY (Shanghai) Technology Co.
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
@@ -601,7 +603,6 @@ IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
 IP-ASN,140731 // TOHU Public Internet
-IP-ASN,199310 // XIN BING XIAN
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
 IP-ASN,141429 // Agatha Network
@@ -656,7 +657,6 @@ IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
 IP-ASN,153633 // KVQNET
 IP-ASN,153458 // Haruzakura Cloud
-IP-ASN,153376 // Jilin Province Brick Business Service Limited
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152134 // Zoro Limited
 IP-ASN,152118 // Shenzhen Moesys Computer System Co Ltd
@@ -908,6 +908,7 @@ IP-ASN,214759 // LEKAI ZHAO
 IP-ASN,213782 // Chang Xin
 IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
+IP-ASN,207091 // Wang Junhao
 IP-ASN,212831 // Liang Zhan Ming
 IP-ASN,205369 // LI YIRAN
 IP-ASN,201944 // HaoRan Liu
