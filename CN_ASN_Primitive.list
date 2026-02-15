@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-15 01:25:22.677Z
+# 最后更新： CST 2026-02-16 01:24:39.481Z
 # ASN: 919
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -504,6 +504,7 @@ IP-ASN,132510 // China Mobile Communications Corporation
 IP-ASN,51928 // SHIZHE XU
 IP-ASN,44421 // Yifu Yu
 IP-ASN,205651 // Hao Qiao
+IP-ASN,201674 // Wen ZhangYu
 IP-ASN,151397 // China Telecom
 IP-ASN,151464 // "Shanghai Luogu Network Technology Co.
 IP-ASN,9805 // SIEMENS LTD. CHINA
@@ -830,7 +831,6 @@ IP-ASN,216412 // YANG FANG
 IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
-IP-ASN,201674 // Wen ZhangYu
 IP-ASN,215502 // Xing Qingyu
 IP-ASN,208679 // YIKAI-ZHAO
 IP-ASN,200959 // Yaoxuan Chen
