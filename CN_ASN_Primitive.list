@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-20 01:49:19.670Z
-# ASN: 917
+# 最后更新： CST 2026-02-21 01:36:34.856Z
+# ASN: 918
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -492,7 +492,6 @@ IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
 IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,58862 // "Microsoft (China) Co.
 IP-ASN,38027 // "Information Center
-IP-ASN,141776 // Baoshuo Network
 IP-ASN,151823 // China Telecom
 IP-ASN,56019 // "Beijing CNISP Technology Co.
 IP-ASN,134417 // Nanjing
@@ -672,6 +671,7 @@ IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
 IP-ASN,151494 // Lin Kangyi
 IP-ASN,150141 // Wang Jiacheng
+IP-ASN,141776 // Baoshuo Network
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,141445 // Phoenix Network
@@ -880,8 +880,10 @@ IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
+IP-ASN,213903 // Liuyang Zhang
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,210352 // Yijia Xu
+IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
@@ -898,7 +900,6 @@ IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,216373 // Xin Xu
 IP-ASN,60666 // "Beijing Chuangzhijie Technology Co.
-IP-ASN,213903 // Liuyang Zhang
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
 IP-ASN,210738 // Peng Chen
