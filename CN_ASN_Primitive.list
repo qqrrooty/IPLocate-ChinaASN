@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-21 01:36:34.856Z
+# 最后更新： CST 2026-02-22 01:24:29.342Z
 # ASN: 918
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -492,6 +492,7 @@ IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
 IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,58862 // "Microsoft (China) Co.
 IP-ASN,38027 // "Information Center
+IP-ASN,141776 // Baoshuo Network
 IP-ASN,151823 // China Telecom
 IP-ASN,56019 // "Beijing CNISP Technology Co.
 IP-ASN,134417 // Nanjing
@@ -671,7 +672,6 @@ IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
 IP-ASN,151494 // Lin Kangyi
 IP-ASN,150141 // Wang Jiacheng
-IP-ASN,141776 // Baoshuo Network
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,141445 // Phoenix Network
