@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-22 01:24:29.342Z
+# 最后更新： CST 2026-02-23 01:24:14.245Z
 # ASN: 918
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -495,6 +495,7 @@ IP-ASN,38027,no-resolve
 IP-ASN,141776,no-resolve
 IP-ASN,151823,no-resolve
 IP-ASN,56019,no-resolve
+IP-ASN,201674,no-resolve
 IP-ASN,134417,no-resolve
 IP-ASN,24376,no-resolve
 IP-ASN,134421,no-resolve
@@ -619,6 +620,7 @@ IP-ASN,136591,no-resolve
 IP-ASN,134488,no-resolve
 IP-ASN,142553,no-resolve
 IP-ASN,137908,no-resolve
+IP-ASN,151673,no-resolve
 IP-ASN,151202,no-resolve
 IP-ASN,39753,no-resolve
 IP-ASN,139589,no-resolve
@@ -829,7 +831,6 @@ IP-ASN,216412,no-resolve
 IP-ASN,209484,no-resolve
 IP-ASN,214203,no-resolve
 IP-ASN,214040,no-resolve
-IP-ASN,201674,no-resolve
 IP-ASN,215502,no-resolve
 IP-ASN,208679,no-resolve
 IP-ASN,200959,no-resolve
@@ -916,7 +917,6 @@ IP-ASN,203643,no-resolve
 IP-ASN,207317,no-resolve
 IP-ASN,216100,no-resolve
 IP-ASN,209601,no-resolve
-IP-ASN,151673,no-resolve
 IP-ASN,205008,no-resolve
 IP-ASN,204211,no-resolve
 IP-ASN,201705,no-resolve

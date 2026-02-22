@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-22 01:24:29.342Z
+# 最后更新： CST 2026-02-23 01:24:14.245Z
 # ASN: 918
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -495,6 +495,7 @@ IP-ASN,38027 // "Information Center
 IP-ASN,141776 // Baoshuo Network
 IP-ASN,151823 // China Telecom
 IP-ASN,56019 // "Beijing CNISP Technology Co.
+IP-ASN,201674 // Wen ZhangYu
 IP-ASN,134417 // Nanjing
 IP-ASN,24376 // Yahoo Inc.
 IP-ASN,134421 // Yunnan Telecom
@@ -619,6 +620,7 @@ IP-ASN,136591 // MxxCloud LLC
 IP-ASN,134488 // CTJ's Global Network
 IP-ASN,142553 // Airs Project Private Network Main
 IP-ASN,137908 // Lin Siqi
+IP-ASN,151673 // Chen Xinyu
 IP-ASN,151202 // Suzhou Honoka Technology Co Ltd
 IP-ASN,39753 // Kai Liu
 IP-ASN,139589 // GTDev Network
@@ -829,7 +831,6 @@ IP-ASN,216412 // YANG FANG
 IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
-IP-ASN,201674 // Wen ZhangYu
 IP-ASN,215502 // Xing Qingyu
 IP-ASN,208679 // YIKAI-ZHAO
 IP-ASN,200959 // Yaoxuan Chen
@@ -916,7 +917,6 @@ IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
 IP-ASN,209601 // Yu ZuYuan
-IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,201705 // Xinrun Li
