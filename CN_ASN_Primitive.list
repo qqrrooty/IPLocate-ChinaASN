@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-23 01:24:14.245Z
-# ASN: 918
+# 最后更新： CST 2026-02-24 02:01:02.772Z
+# ASN: 919
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -50,6 +50,7 @@ IP-ASN,140311 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
+IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
 IP-ASN,63614 // "A4
 IP-ASN,23650 // China Telecom
@@ -209,7 +210,6 @@ IP-ASN,151253 // China Internet Network Information Center
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
-IP-ASN,139888 // Time Network
 IP-ASN,207901 // ZHOU ZEFENG
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
 IP-ASN,201765 // JunYi Li
@@ -604,7 +604,6 @@ IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
 IP-ASN,140731 // TOHU Public Internet
-IP-ASN,199310 // XIN BING XIAN
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
 IP-ASN,141429 // Agatha Network
@@ -620,7 +619,6 @@ IP-ASN,136591 // MxxCloud LLC
 IP-ASN,134488 // CTJ's Global Network
 IP-ASN,142553 // Airs Project Private Network Main
 IP-ASN,137908 // Lin Siqi
-IP-ASN,151673 // Chen Xinyu
 IP-ASN,151202 // Suzhou Honoka Technology Co Ltd
 IP-ASN,39753 // Kai Liu
 IP-ASN,139589 // GTDev Network
@@ -640,6 +638,7 @@ IP-ASN,153186 // Xu Jiayou
 IP-ASN,153187 // Wu Chunyu
 IP-ASN,153189 // Wang Jianwei
 IP-ASN,153190 // Zhang Chong
+IP-ASN,139888 // Time Network
 IP-ASN,149510 // Feng Libo
 IP-ASN,153331 // Chen Wei
 IP-ASN,153333 // Fu Jiechun
@@ -654,6 +653,7 @@ IP-ASN,152930 // Lin Xiangliang
 IP-ASN,153033 // Shang Xu
 IP-ASN,153034 // Wang Lin
 IP-ASN,136535 // Yang Mengqi
+IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
@@ -916,6 +916,7 @@ IP-ASN,201944 // HaoRan Liu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
+IP-ASN,151673 // Chen Xinyu
 IP-ASN,209601 // Yu ZuYuan
 IP-ASN,205008 // Junqi Huang
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
