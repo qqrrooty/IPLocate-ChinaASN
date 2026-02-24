@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-24 02:01:02.772Z
-# ASN: 919
+# 最后更新： CST 2026-02-25 01:55:16.386Z
+# ASN: 917
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -48,7 +48,6 @@ IP-ASN,140318 // China Telecom
 IP-ASN,140320 // China Telecom
 IP-ASN,140311 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
-IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
@@ -497,7 +496,6 @@ IP-ASN,151823 // China Telecom
 IP-ASN,56019 // "Beijing CNISP Technology Co.
 IP-ASN,201674 // Wen ZhangYu
 IP-ASN,134417 // Nanjing
-IP-ASN,24376 // Yahoo Inc.
 IP-ASN,134421 // Yunnan Telecom
 IP-ASN,10212 // China Enterprise ICT Solutions Limited
 IP-ASN,132510 // China Mobile Communications Corporation
@@ -819,6 +817,7 @@ IP-ASN,140375 // China Telecom
 IP-ASN,140376 // China Telecom
 IP-ASN,140377 // China Telecom
 IP-ASN,140378 // China Telecom
+IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,215507 // KAI BI
 IP-ASN,204518 // Shiyu Zhou
 IP-ASN,214955 // Weikang Zeng
@@ -840,7 +839,6 @@ IP-ASN,206729 // Vincent Yang
 IP-ASN,200536 // Bo Xu
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,216056 // Jingqiu Xu
-IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,200853 // Yifan Li
 IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,200268 // Haihan Chen
