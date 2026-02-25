@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-25 01:55:16.386Z
-# ASN: 917
+# 最后更新： CST 2026-02-26 01:56:18.516Z
+# ASN: 914
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -209,7 +209,6 @@ IP-ASN,151253 // China Internet Network Information Center
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
-IP-ASN,207901 // ZHOU ZEFENG
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
 IP-ASN,201765 // JunYi Li
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
@@ -882,7 +881,6 @@ IP-ASN,202396 // Zeng Yukai
 IP-ASN,213903 // Liuyang Zhang
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,210352 // Yijia Xu
-IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,213878 // ZhengYong CHEN
 IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
@@ -897,7 +895,6 @@ IP-ASN,215832 // Jian Xu
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
-IP-ASN,216373 // Xin Xu
 IP-ASN,60666 // "Beijing Chuangzhijie Technology Co.
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
@@ -914,8 +911,8 @@ IP-ASN,201944 // HaoRan Liu
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
-IP-ASN,151673 // Chen Xinyu
 IP-ASN,209601 // Yu ZuYuan
+IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,201705 // Xinrun Li
