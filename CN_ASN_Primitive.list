@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-02-26 01:56:18.516Z
-# ASN: 914
+# 最后更新： CST 2026-02-27 01:56:42.868Z
+# ASN: 913
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -149,6 +149,7 @@ IP-ASN,131506 // "HEILONGJIANG RADIO & TV NETWORK CO.
 IP-ASN,151185 // China Telecom
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
 IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
 IP-ASN,45101 // "2-5/F
@@ -164,7 +165,6 @@ IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
@@ -289,7 +289,6 @@ IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
-IP-ASN,151261 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
 IP-ASN,4611 // CNNIC member
@@ -616,6 +615,7 @@ IP-ASN,136591 // MxxCloud LLC
 IP-ASN,134488 // CTJ's Global Network
 IP-ASN,142553 // Airs Project Private Network Main
 IP-ASN,137908 // Lin Siqi
+IP-ASN,151673 // Chen Xinyu
 IP-ASN,151202 // Suzhou Honoka Technology Co Ltd
 IP-ASN,39753 // Kai Liu
 IP-ASN,139589 // GTDev Network
@@ -912,7 +912,6 @@ IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
 IP-ASN,209601 // Yu ZuYuan
-IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,201705 // Xinrun Li
