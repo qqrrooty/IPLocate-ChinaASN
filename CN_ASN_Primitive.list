@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-01 01:19:21.135Z
+# 最后更新： CST 2026-03-02 01:21:32.154Z
 # ASN: 915
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -49,7 +49,6 @@ IP-ASN,140320 // China Telecom
 IP-ASN,140311 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
-IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
 IP-ASN,63614 // "A4
 IP-ASN,23650 // China Telecom
@@ -391,7 +390,6 @@ IP-ASN,140345 // China Telecom
 IP-ASN,138169 // China Telecom
 IP-ASN,134419 // Beihai
 IP-ASN,148969 // China Telecom
-IP-ASN,205418 // Xinghua Zhu
 IP-ASN,59011 // "Beijing Yunlin Network Technology Co.
 IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,45113 // "Shanxi Datong Coal Group Communication Co.
@@ -468,6 +466,7 @@ IP-ASN,63593 // HeyTap PTE.LTD.
 IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,136195 // "Qingdao
+IP-ASN,205418 // Xinghua Zhu
 IP-ASN,154402 // "Shenzhen FredCloud Computing Technology Co.
 IP-ASN,151251 // China Internet Network Information Center
 IP-ASN,137771 // "Zhejiang Liangliang Cloud Network Technology Co.
@@ -601,6 +600,7 @@ IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
 IP-ASN,140731 // TOHU Public Internet
+IP-ASN,199310 // XIN BING XIAN
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
 IP-ASN,141429 // Agatha Network
