@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-02 01:21:32.154Z
-# ASN: 915
+# 最后更新： CST 2026-03-03 01:43:16.702Z
+# ASN: 913
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -289,6 +289,7 @@ IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
+IP-ASN,151261 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
 IP-ASN,4611 // CNNIC member
@@ -344,7 +345,6 @@ IP-ASN,139799 // "Beijing Dajia Internet Information Technology Co.
 IP-ASN,139154 // Big Data Center Of Shandong Province
 IP-ASN,140633 // BILIBILI HK LIMITED
 IP-ASN,139139 // Shenyang Agricultural University
-IP-ASN,9384 // MIKU NETWORK LIMITED
 IP-ASN,139141 // Yusys Financial Cloud
 IP-ASN,139136 // "ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.
 IP-ASN,137719 // "Qingdao Weidong Big Data Technology Co.
@@ -480,6 +480,7 @@ IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,211265 // GUI JIANG
 IP-ASN,63538 // "Accenture (China) Co.
 IP-ASN,37969 // "Zhejiang WuLian Network Technology Co.
+IP-ASN,9384 // MIKU NETWORK LIMITED
 IP-ASN,135426 // ZTE Corporation
 IP-ASN,151277 // China Internet Network Information Center
 IP-ASN,136769 // "Guangzhou Fengyun Information Technology Co.
@@ -654,7 +655,6 @@ IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
-IP-ASN,153633 // KVQNET
 IP-ASN,153458 // Haruzakura Cloud
 IP-ASN,151814 // Guo Chuang Xin Xing (Beijing) Technology Co Ltd
 IP-ASN,152134 // Zoro Limited
@@ -666,7 +666,6 @@ IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,132479 // Xue Desen
 IP-ASN,150373 // Zhang Bocheng
-IP-ASN,151193 // Shandong Deju Information Technology Co Ltd
 IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
 IP-ASN,151494 // Lin Kangyi
@@ -889,7 +888,6 @@ IP-ASN,202335 // Zhanrui Tian
 IP-ASN,211721 // HUANG YUCHAO
 IP-ASN,214610 // YangXu Liao
 IP-ASN,216256 // HUANG SISOU
-IP-ASN,198266 // Yunrui Gu
 IP-ASN,214704 // Xin Zhao
 IP-ASN,215315 // LIZI LUO
 IP-ASN,215832 // Jian Xu
