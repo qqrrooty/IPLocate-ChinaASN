@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-05 01:37:38.403Z
-# ASN: 911
+# 最后更新： CST 2026-03-06 02:48:27.548Z
+# ASN: 912
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -165,6 +165,7 @@ payload:
   - IP-ASN,58834,no-resolve
   - IP-ASN,55468,no-resolve
   - IP-ASN,151302,no-resolve
+  - IP-ASN,131574,no-resolve
   - IP-ASN,139180,no-resolve
   - IP-ASN,140979,no-resolve
   - IP-ASN,59029,no-resolve
@@ -179,6 +180,7 @@ payload:
   - IP-ASN,63548,no-resolve
   - IP-ASN,59043,no-resolve
   - IP-ASN,205152,no-resolve
+  - IP-ASN,213625,no-resolve
   - IP-ASN,214899,no-resolve
   - IP-ASN,135671,no-resolve
   - IP-ASN,133846,no-resolve
@@ -287,9 +289,7 @@ payload:
   - IP-ASN,150166,no-resolve
   - IP-ASN,9811,no-resolve
   - IP-ASN,212237,no-resolve
-  - IP-ASN,131574,no-resolve
   - IP-ASN,63567,no-resolve
-  - IP-ASN,131506,no-resolve
   - IP-ASN,151261,no-resolve
   - IP-ASN,59049,no-resolve
   - IP-ASN,63580,no-resolve
@@ -350,6 +350,7 @@ payload:
   - IP-ASN,139136,no-resolve
   - IP-ASN,137719,no-resolve
   - IP-ASN,9389,no-resolve
+  - IP-ASN,131506,no-resolve
   - IP-ASN,142111,no-resolve
   - IP-ASN,146746,no-resolve
   - IP-ASN,146842,no-resolve
@@ -889,6 +890,7 @@ payload:
   - IP-ASN,198266,no-resolve
   - IP-ASN,214704,no-resolve
   - IP-ASN,215315,no-resolve
+  - IP-ASN,151673,no-resolve
   - IP-ASN,215832,no-resolve
   - IP-ASN,213116,no-resolve
   - IP-ASN,205779,no-resolve
@@ -910,7 +912,6 @@ payload:
   - IP-ASN,207317,no-resolve
   - IP-ASN,216100,no-resolve
   - IP-ASN,209601,no-resolve
-  - IP-ASN,151673,no-resolve
   - IP-ASN,205008,no-resolve
   - IP-ASN,204211,no-resolve
   - IP-ASN,201705,no-resolve

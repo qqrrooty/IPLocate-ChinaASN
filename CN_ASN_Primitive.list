@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-05 01:37:38.403Z
-# ASN: 911
+# 最后更新： CST 2026-03-06 02:48:27.548Z
+# ASN: 912
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -164,6 +164,7 @@ IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
 IP-ASN,151302 // China Internet Network Information Center
+IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
@@ -178,6 +179,7 @@ IP-ASN,134764 // CHINANET Guangdong province network
 IP-ASN,63548 // LENOVO (BEIJING) Co.ltd
 IP-ASN,59043 // "Guangzhou LanDong Information technology co.
 IP-ASN,205152 // Han Dai
+IP-ASN,213625 // Xuluo Chen
 IP-ASN,214899 // Ye Liliang
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
@@ -286,9 +288,7 @@ IP-ASN,38378 // Bosch (China) Investment Ltd.
 IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
-IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
-IP-ASN,131506 // "HEILONGJIANG RADIO & TV NETWORK CO.
 IP-ASN,151261 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -349,6 +349,7 @@ IP-ASN,139141 // Yusys Financial Cloud
 IP-ASN,139136 // "ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.
 IP-ASN,137719 // "Qingdao Weidong Big Data Technology Co.
 IP-ASN,9389 // BEIJING SHENZHOU GREATWALL COMMUNICATION
+IP-ASN,131506 // "HEILONGJIANG RADIO & TV NETWORK CO.
 IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,146746 // "TaiKang Insurance Group CO.
 IP-ASN,146842 // ChinaDataCom Corporation Limited
@@ -888,6 +889,7 @@ IP-ASN,214610 // YangXu Liao
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,214704 // Xin Zhao
 IP-ASN,215315 // LIZI LUO
+IP-ASN,151673 // Chen Xinyu
 IP-ASN,215832 // Jian Xu
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
@@ -909,7 +911,6 @@ IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
 IP-ASN,209601 // Yu ZuYuan
-IP-ASN,151673 // Chen Xinyu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,204211 // "Hangzhou Yingyun Network Technology Co.
 IP-ASN,201705 // Xinrun Li
