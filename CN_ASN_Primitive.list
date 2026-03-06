@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-06 02:48:27.548Z
-# ASN: 912
+# 最后更新： CST 2026-03-07 01:42:56.830Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -189,7 +189,6 @@ IP-ASN,139073 // Fantasy Sky Internet eXchange
 IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
-IP-ASN,203236 // Mingyang Shen
 IP-ASN,209574 // Xiao Tan
 IP-ASN,209306 // Jin Shaohai
 IP-ASN,215786 // Peng Wang
@@ -200,6 +199,7 @@ IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
 IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,205610 // Huanjie Zhu
+IP-ASN,151261 // China Internet Network Information Center
 IP-ASN,131325 // CHINATELECOM JIANGSU province NANTONG MAN network
 IP-ASN,55967 // "Beijing Baidu Netcom Science and Technology Co.
 IP-ASN,45061 // "Shanghai Information Network Co.
@@ -289,7 +289,6 @@ IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
-IP-ASN,151261 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
 IP-ASN,4611 // CNNIC member
