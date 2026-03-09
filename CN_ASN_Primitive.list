@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-09 01:22:11.895Z
-# ASN: 912
+# 最后更新： CST 2026-03-10 01:45:39.048Z
+# ASN: 914
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -269,6 +269,7 @@ IP-ASN,207091 // Wang Junhao
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,212164 // Jiaxian He
+IP-ASN,154402 // "Shenzhen FredCloud Computing Technology Co.
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
 IP-ASN,56006 // "Shanghai Pudong Development Bank Co.
 IP-ASN,45079 // GDS CHANGAN SERVICES Ltd.
@@ -466,7 +467,6 @@ IP-ASN,63593 // HeyTap PTE.LTD.
 IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,136195 // "Qingdao
-IP-ASN,154402 // "Shenzhen FredCloud Computing Technology Co.
 IP-ASN,151251 // China Internet Network Information Center
 IP-ASN,137771 // "Zhejiang Liangliang Cloud Network Technology Co.
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -570,6 +570,7 @@ IP-ASN,214740 // WENTAO FEI
 IP-ASN,59265 // China telecom â China Next Generation Internet
 IP-ASN,24302 // China Education and Research Network (CERNET)
 IP-ASN,140043 // "Guangzhou Jinggong Information Technology Co.
+IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
 IP-ASN,151951 // "Shenzhen lesuyun Network Technology Co.
@@ -907,6 +908,7 @@ IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,212831 // Liang Zhan Ming
 IP-ASN,205369 // LI YIRAN
 IP-ASN,201944 // HaoRan Liu
+IP-ASN,210773 // Xinyu Chen
 IP-ASN,203643 // lai gao
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
