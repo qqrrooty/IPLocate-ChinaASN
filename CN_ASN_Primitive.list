@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-10 01:45:39.048Z
+# 最后更新： CST 2026-03-11 01:44:15.336Z
 # ASN: 914
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -180,6 +180,7 @@ IP-ASN,59043 // "Guangzhou LanDong Information technology co.
 IP-ASN,205152 // Han Dai
 IP-ASN,213625 // Xuluo Chen
 IP-ASN,214899 // Ye Liliang
+IP-ASN,209300 // Wende Tan
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
@@ -570,6 +571,7 @@ IP-ASN,214740 // WENTAO FEI
 IP-ASN,59265 // China telecom â China Next Generation Internet
 IP-ASN,24302 // China Education and Research Network (CERNET)
 IP-ASN,140043 // "Guangzhou Jinggong Information Technology Co.
+IP-ASN,141172 // Tianao Chen
 IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
@@ -592,7 +594,6 @@ IP-ASN,18257 // "ChangZhou Bitcomm Software Technology Co.
 IP-ASN,139090 // Wuxi Education Information Management Service Center
 IP-ASN,24144 // "Wuhan LSHIY Network Technology Co.
 IP-ASN,24239 // TWD2 Education and Research Network
-IP-ASN,209300 // Wende Tan
 IP-ASN,139161 // Xinjiang Rural Credit Union
 IP-ASN,139112 // "Shanghai Qnet Networking Technology Co.
 IP-ASN,24372 // CERNET2 IX at Harbin Institute of Technology
@@ -868,7 +869,6 @@ IP-ASN,206843 // Jikai Ren
 IP-ASN,211968 // Chenran MU
 IP-ASN,211158 // Jun CAO
 IP-ASN,210903 // "Chengde TsingYao Network Technology Service Co.
-IP-ASN,200021 // Tianhong Peng
 IP-ASN,198527 // Haolin Li
 IP-ASN,197626 // XU ZIYAO
 IP-ASN,216299 // Yang Liuchang
