@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-13 01:48:48.379Z
+# 最后更新： CST 2026-03-14 01:34:16.061Z
 # ASN: 915
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -481,7 +481,6 @@ IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
 IP-ASN,211265 // GUI JIANG
 IP-ASN,63538 // "Accenture (China) Co.
 IP-ASN,37969 // "Zhejiang WuLian Network Technology Co.
-IP-ASN,9384 // MIKU NETWORK LIMITED
 IP-ASN,135426 // ZTE Corporation
 IP-ASN,151277 // China Internet Network Information Center
 IP-ASN,136769 // "Guangzhou Fengyun Information Technology Co.
@@ -496,6 +495,7 @@ IP-ASN,151823 // China Telecom
 IP-ASN,56019 // "Beijing CNISP Technology Co.
 IP-ASN,201674 // Wen ZhangYu
 IP-ASN,134417 // Nanjing
+IP-ASN,24376 // Yahoo Inc.
 IP-ASN,134421 // Yunnan Telecom
 IP-ASN,10212 // China Enterprise ICT Solutions Limited
 IP-ASN,132510 // China Mobile Communications Corporation
