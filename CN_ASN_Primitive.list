@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-16 01:26:19.400Z
-# ASN: 913
+# 最后更新： CST 2026-03-17 01:59:21.163Z
+# ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -49,6 +49,7 @@ IP-ASN,140320 // China Telecom
 IP-ASN,140311 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
+IP-ASN,199310 // XIN BING XIAN
 IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
 IP-ASN,63614 // "A4
 IP-ASN,23650 // China Telecom
@@ -162,8 +163,8 @@ IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
-IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
+IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
@@ -601,7 +602,6 @@ IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
 IP-ASN,140731 // TOHU Public Internet
-IP-ASN,199310 // XIN BING XIAN
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
 IP-ASN,141429 // Agatha Network
@@ -668,7 +668,6 @@ IP-ASN,132479 // Xue Desen
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
-IP-ASN,151494 // Lin Kangyi
 IP-ASN,150141 // Wang Jiacheng
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
@@ -825,7 +824,6 @@ IP-ASN,209481 // HaoYu Deng
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
 IP-ASN,216412 // YANG FANG
-IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,215502 // Xing Qingyu
