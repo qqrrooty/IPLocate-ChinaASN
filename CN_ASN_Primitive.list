@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-17 01:59:21.163Z
+# 最后更新： CST 2026-03-18 01:57:37.410Z
 # ASN: 911
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -186,7 +186,6 @@ IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,210041 // Licheng MAO
-IP-ASN,139073 // Fantasy Sky Internet eXchange
 IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
@@ -455,6 +454,7 @@ IP-ASN,140886 // China Unicom
 IP-ASN,38364 // "RM 1706
 IP-ASN,24362 // CERNET2 IX at University of Science and Technology of China
 IP-ASN,138371 // China Education and Research Network (CERNET)
+IP-ASN,24422 // "Huizhan street
 IP-ASN,38381 // "west wing no.157
 IP-ASN,17775 // shanghai science and technology network communication limited company
 IP-ASN,63641 // "Mega Vantage Information Consulting Co.
@@ -882,6 +882,7 @@ IP-ASN,207303 // Xilin Xie
 IP-ASN,214207 // Xiao Wang
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,211721 // HUANG YUCHAO
+IP-ASN,210738 // Peng Chen
 IP-ASN,214610 // YangXu Liao
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,214704 // Xin Zhao
@@ -894,7 +895,6 @@ IP-ASN,212793 // Xiwei Ye
 IP-ASN,60666 // "Beijing Chuangzhijie Technology Co.
 IP-ASN,214963 // Puhe You
 IP-ASN,213700 // Yuhan Wang
-IP-ASN,210738 // Peng Chen
 IP-ASN,212985 // Mingjie Wu
 IP-ASN,44446 // Yuan Xue
 IP-ASN,214759 // LEKAI ZHAO
