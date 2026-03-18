@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-18 01:57:37.410Z
-# ASN: 911
+# 最后更新： CST 2026-03-19 02:00:07.340Z
+# ASN: 913
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -21,9 +21,9 @@ IP-ASN,4809 // China Telecom Next Generation Carrier Network
 IP-ASN,134768 // CHINANET SHAANXI province Cloud Base network
 IP-ASN,17429 // BEIJING GEHUA CATV NETWORK CO.LTD
 IP-ASN,55990 // Huawei Cloud Service data center
-IP-ASN,4847 // China Networks Inter-Exchange
 IP-ASN,137753 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,58851 // "Priority of Fashion(Beijing)Information Technology Co.
+IP-ASN,4847 // China Networks Inter-Exchange
 IP-ASN,59034 // "BeiJing Wish Network Technology CO.
 IP-ASN,141006 // China Telecom
 IP-ASN,139018 // China Telecom
@@ -186,6 +186,7 @@ IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,210041 // Licheng MAO
+IP-ASN,139073 // Fantasy Sky Internet eXchange
 IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
@@ -267,6 +268,7 @@ IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,58026 // "Xiamen Jiufu Network Co.
+IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212053 // ShiJI Tong
