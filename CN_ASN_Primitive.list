@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-19 02:00:07.340Z
-# ASN: 913
+# 最后更新： CST 2026-03-20 01:52:52.274Z
+# ASN: 915
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -211,7 +211,7 @@ IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
-IP-ASN,201765 // JunYi Li
+IP-ASN,201765 // NECTMANIA NETWORK LIMITED
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
@@ -837,6 +837,7 @@ IP-ASN,206729 // Vincent Yang
 IP-ASN,200536 // Bo Xu
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,216056 // Jingqiu Xu
+IP-ASN,200472 // xiao yuqing
 IP-ASN,200853 // Yifan Li
 IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,200268 // Haihan Chen
@@ -856,6 +857,7 @@ IP-ASN,49904 // Xiaodong Qi
 IP-ASN,215007 // BOZHAN LIANG
 IP-ASN,207615 // XINYU ZHANG
 IP-ASN,209586 // SUNYOU PAN
+IP-ASN,200720 // Yichen Shi
 IP-ASN,215969 // Tan Zhang
 IP-ASN,209261 // Qiao Jiang
 IP-ASN,210426 // Liang Zhu
