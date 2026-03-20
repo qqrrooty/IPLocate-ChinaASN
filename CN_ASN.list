@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-20 01:52:52.274Z
+# 最后更新： CST 2026-03-21 01:35:10.351Z
 # ASN: 915
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -220,6 +220,7 @@ IP-ASN,135061,no-resolve
 IP-ASN,137702,no-resolve
 IP-ASN,63633,no-resolve
 IP-ASN,146966,no-resolve
+IP-ASN,140293,no-resolve
 IP-ASN,146834,no-resolve
 IP-ASN,7497,no-resolve
 IP-ASN,213605,no-resolve
@@ -236,7 +237,6 @@ IP-ASN,24139,no-resolve
 IP-ASN,24350,no-resolve
 IP-ASN,134770,no-resolve
 IP-ASN,134769,no-resolve
-IP-ASN,140293,no-resolve
 IP-ASN,136958,no-resolve
 IP-ASN,140309,no-resolve
 IP-ASN,134773,no-resolve
@@ -299,7 +299,6 @@ IP-ASN,63580,no-resolve
 IP-ASN,4611,no-resolve
 IP-ASN,132019,no-resolve
 IP-ASN,139177,no-resolve
-IP-ASN,63646,no-resolve
 IP-ASN,151295,no-resolve
 IP-ASN,63629,no-resolve
 IP-ASN,63631,no-resolve
@@ -429,6 +428,7 @@ IP-ASN,17964,no-resolve
 IP-ASN,140484,no-resolve
 IP-ASN,138991,no-resolve
 IP-ASN,136198,no-resolve
+IP-ASN,63646,no-resolve
 IP-ASN,140707,no-resolve
 IP-ASN,133119,no-resolve
 IP-ASN,137539,no-resolve
@@ -472,6 +472,7 @@ IP-ASN,154315,no-resolve
 IP-ASN,59078,no-resolve
 IP-ASN,136195,no-resolve
 IP-ASN,151251,no-resolve
+IP-ASN,151247,no-resolve
 IP-ASN,137771,no-resolve
 IP-ASN,137787,no-resolve
 IP-ASN,137690,no-resolve
@@ -483,7 +484,6 @@ IP-ASN,211265,no-resolve
 IP-ASN,63538,no-resolve
 IP-ASN,37969,no-resolve
 IP-ASN,135426,no-resolve
-IP-ASN,151277,no-resolve
 IP-ASN,136769,no-resolve
 IP-ASN,24349,no-resolve
 IP-ASN,153725,no-resolve
@@ -611,6 +611,7 @@ IP-ASN,139216,no-resolve
 IP-ASN,134477,no-resolve
 IP-ASN,142164,no-resolve
 IP-ASN,211575,no-resolve
+IP-ASN,150141,no-resolve
 IP-ASN,152892,no-resolve
 IP-ASN,138535,no-resolve
 IP-ASN,151674,no-resolve
@@ -670,7 +671,6 @@ IP-ASN,132479,no-resolve
 IP-ASN,150373,no-resolve
 IP-ASN,151331,no-resolve
 IP-ASN,142642,no-resolve
-IP-ASN,150141,no-resolve
 IP-ASN,139231,no-resolve
 IP-ASN,151194,no-resolve
 IP-ASN,141445,no-resolve

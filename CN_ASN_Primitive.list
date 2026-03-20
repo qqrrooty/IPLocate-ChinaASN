@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-20 01:52:52.274Z
+# 最后更新： CST 2026-03-21 01:35:10.351Z
 # ASN: 915
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -220,6 +220,7 @@ IP-ASN,135061 // China Unicom Guangdong IP network
 IP-ASN,137702 // China Telecom
 IP-ASN,63633 // "GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.
 IP-ASN,146966 // China Telecom
+IP-ASN,140293 // China Telecom
 IP-ASN,146834 // "SiChuan XunYou Network Technologe Limit
 IP-ASN,7497 // CNIC-CAS
 IP-ASN,213605 // Liu HaoRan
@@ -236,7 +237,6 @@ IP-ASN,24139 // Huashu media&Network Limited
 IP-ASN,24350 // CERNET2 IX at Beijing University of Posts and Telecommunications
 IP-ASN,134770 // CHINANET Jiangsu province Suzhou taihu IDC network
 IP-ASN,134769 // ChinaNet Jiangsu Changzhou Liyang IDC network
-IP-ASN,140293 // China Telecom
 IP-ASN,136958 // China Unicom Guangdong IP network
 IP-ASN,140309 // China Telecom
 IP-ASN,134773 // CHINANET Guangdong province Guangzhou MAN network
@@ -299,7 +299,6 @@ IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
 IP-ASN,4611 // CNNIC member
 IP-ASN,132019 // "Earth network technology (Shanghai) Co.
 IP-ASN,139177 // New Oriental Education & Technology Group Ltd.
-IP-ASN,63646 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,151295 // China Internet Network Information Center
 IP-ASN,63629 // "Beijing Autohome imformation technology Co.
 IP-ASN,63631 // "Guangdong Cloudbase Technology Co.
@@ -429,6 +428,7 @@ IP-ASN,17964 // "Beijing Dian-Xin-Tong Network Technologies Co.
 IP-ASN,140484 // China Telecom
 IP-ASN,138991 // China Telecom
 IP-ASN,136198 // CHINANET Guangdong province Yuexi MAN network
+IP-ASN,63646 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,140707 // China Unicom
 IP-ASN,133119 // China Unicom IP network
 IP-ASN,137539 // China Unicom
@@ -472,6 +472,7 @@ IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,136195 // "Qingdao
 IP-ASN,151251 // China Internet Network Information Center
+IP-ASN,151247 // China Internet Network Information Center
 IP-ASN,137771 // "Zhejiang Liangliang Cloud Network Technology Co.
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137690 // "Zaozhuang
@@ -483,7 +484,6 @@ IP-ASN,211265 // GUI JIANG
 IP-ASN,63538 // "Accenture (China) Co.
 IP-ASN,37969 // "Zhejiang WuLian Network Technology Co.
 IP-ASN,135426 // ZTE Corporation
-IP-ASN,151277 // China Internet Network Information Center
 IP-ASN,136769 // "Guangzhou Fengyun Information Technology Co.
 IP-ASN,24349 // CERNET2 IX at Peking University
 IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
@@ -611,6 +611,7 @@ IP-ASN,139216 // Htroy Network Research Limited
 IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
 IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
 IP-ASN,211575 // Rui Feng
+IP-ASN,150141 // Wang Jiacheng
 IP-ASN,152892 // Liu Jiarong
 IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
@@ -670,7 +671,6 @@ IP-ASN,132479 // Xue Desen
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,151331 // Sora You
 IP-ASN,142642 // Atonal System
-IP-ASN,150141 // Wang Jiacheng
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,141445 // Phoenix Network
