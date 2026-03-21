@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-21 01:35:10.351Z
-# ASN: 915
+# 最后更新： CST 2026-03-22 01:24:41.397Z
+# ASN: 912
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -179,7 +179,6 @@ IP-ASN,134764 // CHINANET Guangdong province network
 IP-ASN,63548 // LENOVO (BEIJING) Co.ltd
 IP-ASN,59043 // "Guangzhou LanDong Information technology co.
 IP-ASN,205152 // Han Dai
-IP-ASN,213625 // Xuluo Chen
 IP-ASN,214899 // Ye Liliang
 IP-ASN,209300 // Wende Tan
 IP-ASN,135671 // RBB InfoTech
@@ -211,7 +210,6 @@ IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
-IP-ASN,201765 // NECTMANIA NETWORK LIMITED
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
@@ -299,6 +297,7 @@ IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
 IP-ASN,4611 // CNNIC member
 IP-ASN,132019 // "Earth network technology (Shanghai) Co.
 IP-ASN,139177 // New Oriental Education & Technology Group Ltd.
+IP-ASN,63646 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,151295 // China Internet Network Information Center
 IP-ASN,63629 // "Beijing Autohome imformation technology Co.
 IP-ASN,63631 // "Guangdong Cloudbase Technology Co.
@@ -428,7 +427,6 @@ IP-ASN,17964 // "Beijing Dian-Xin-Tong Network Technologies Co.
 IP-ASN,140484 // China Telecom
 IP-ASN,138991 // China Telecom
 IP-ASN,136198 // CHINANET Guangdong province Yuexi MAN network
-IP-ASN,63646 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,140707 // China Unicom
 IP-ASN,133119 // China Unicom IP network
 IP-ASN,137539 // China Unicom
@@ -824,7 +822,6 @@ IP-ASN,214933 // Bingxin Liu
 IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,204185 // Yuchen Ma
-IP-ASN,209645 // Jixian Zeng
 IP-ASN,216412 // YANG FANG
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
@@ -852,7 +849,6 @@ IP-ASN,214660 // junlin chen
 IP-ASN,209556 // Benli Zhong
 IP-ASN,205603 // Xinyu Wei
 IP-ASN,205618 // Yichen Lu
-IP-ASN,205532 // Zichao Heng
 IP-ASN,49904 // Xiaodong Qi
 IP-ASN,215007 // BOZHAN LIANG
 IP-ASN,207615 // XINYU ZHANG
@@ -877,6 +873,7 @@ IP-ASN,213891 // Liu Zhen
 IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
+IP-ASN,209645 // Jixian Zeng
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,203309 // Liangyi Ma
 IP-ASN,210352 // Yijia Xu
