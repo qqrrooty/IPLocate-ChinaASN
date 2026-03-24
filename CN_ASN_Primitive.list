@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-24 01:50:52.638Z
-# ASN: 911
+# 最后更新： CST 2026-03-25 01:55:31.424Z
+# ASN: 914
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -163,7 +163,6 @@ IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,55468 // China Radio International
-IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
@@ -180,6 +179,7 @@ IP-ASN,134764 // CHINANET Guangdong province network
 IP-ASN,63548 // LENOVO (BEIJING) Co.ltd
 IP-ASN,59043 // "Guangzhou LanDong Information technology co.
 IP-ASN,205152 // Han Dai
+IP-ASN,213625 // Xuluo Chen
 IP-ASN,214899 // Ye Liliang
 IP-ASN,209300 // Wende Tan
 IP-ASN,135671 // RBB InfoTech
@@ -268,7 +268,6 @@ IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,58026 // "Xiamen Jiufu Network Co.
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,207091 // Wang Junhao
-IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,212053 // ShiJI Tong
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,212164 // Jiaxian He
@@ -303,8 +302,10 @@ IP-ASN,63629 // "Beijing Autohome imformation technology Co.
 IP-ASN,63631 // "Guangdong Cloudbase Technology Co.
 IP-ASN,63634 // "China Payment & Clearing Network Co.
 IP-ASN,63722 // "Hodo Telecom Co
+IP-ASN,42962 // Shijiazhuang XuDing Technology Company Ltd
 IP-ASN,136189 // "Opera Software Technology (Beijing) Co.
 IP-ASN,136237 // "Shanghai Shuangyu Communication Technology co.
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,131497 // "Volkswagen (China) Investment Co.
 IP-ASN,63689 // "Esun Technology(Shanghai) Co.
 IP-ASN,131578 // Beijing Foreign Studies University
@@ -481,6 +482,7 @@ IP-ASN,211265 // GUI JIANG
 IP-ASN,63538 // "Accenture (China) Co.
 IP-ASN,37969 // "Zhejiang WuLian Network Technology Co.
 IP-ASN,135426 // ZTE Corporation
+IP-ASN,151277 // China Internet Network Information Center
 IP-ASN,136769 // "Guangzhou Fengyun Information Technology Co.
 IP-ASN,24349 // CERNET2 IX at Peking University
 IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
@@ -822,6 +824,7 @@ IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,216412 // YANG FANG
+IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,215502 // Xing Qingyu
