@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-25 01:55:31.424Z
-# ASN: 914
+# 最后更新： CST 2026-03-26 01:58:04.469Z
+# ASN: 913
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -179,7 +179,6 @@ IP-ASN,134764 // CHINANET Guangdong province network
 IP-ASN,63548 // LENOVO (BEIJING) Co.ltd
 IP-ASN,59043 // "Guangzhou LanDong Information technology co.
 IP-ASN,205152 // Han Dai
-IP-ASN,213625 // Xuluo Chen
 IP-ASN,214899 // Ye Liliang
 IP-ASN,209300 // Wende Tan
 IP-ASN,135671 // RBB InfoTech
@@ -199,6 +198,7 @@ IP-ASN,199392 // SHIZHENG NIE
 IP-ASN,153376 // Jilin Province Brick Business Service Limited
 IP-ASN,214575 // "Curious Universe (Chongqing) Technology Co.
 IP-ASN,4842 // Tianhai InfoTech
+IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,205610 // Huanjie Zhu
 IP-ASN,151261 // China Internet Network Information Center
 IP-ASN,131325 // CHINATELECOM JIANGSU province NANTONG MAN network
@@ -815,7 +815,6 @@ IP-ASN,140375 // China Telecom
 IP-ASN,140376 // China Telecom
 IP-ASN,140377 // China Telecom
 IP-ASN,140378 // China Telecom
-IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,215507 // KAI BI
 IP-ASN,204518 // Shiyu Zhou
 IP-ASN,214955 // Weikang Zeng
@@ -833,10 +832,10 @@ IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
 IP-ASN,200890 // Jianfeng Ren
 IP-ASN,206729 // Vincent Yang
-IP-ASN,200536 // Bo Xu
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,216056 // Jingqiu Xu
 IP-ASN,200472 // xiao yuqing
+IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,200853 // Yifan Li
 IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,200268 // Haihan Chen
