@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-26 01:58:04.469Z
-# ASN: 913
+# 最后更新： CST 2026-03-27 01:59:46.938Z
+# ASN: 914
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -265,7 +265,6 @@ IP-ASN,9394 // China TieTong Telecommunications Corporation
 IP-ASN,131524 // "Shanghai pujv Communication Technology co.
 IP-ASN,205027 // "Fengnayun Data Co.
 IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
-IP-ASN,58026 // "Xiamen Jiufu Network Co.
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,207091 // Wang Junhao
 IP-ASN,212053 // ShiJI Tong
@@ -329,6 +328,7 @@ IP-ASN,137715 // GTJA Securities
 IP-ASN,138029 // "Shen Zhen Hu Lian Xian Feng Technology Co.
 IP-ASN,137785 // "CACloud Services (Shanghai) Co.
 IP-ASN,139138 // "Gopay Information Technology Co.
+IP-ASN,58026 // "Xiamen Jiufu Network Co.
 IP-ASN,137758 // "Industrial and Commercial Bank of China Limited
 IP-ASN,137571 // "Rang Yang Bai Shi Chuang Yun Co.
 IP-ASN,136197 // "Xiong'an
@@ -832,6 +832,7 @@ IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
 IP-ASN,200890 // Jianfeng Ren
 IP-ASN,206729 // Vincent Yang
+IP-ASN,200536 // Bo Xu
 IP-ASN,202256 // Dongyu Zhang
 IP-ASN,216056 // Jingqiu Xu
 IP-ASN,200472 // xiao yuqing
