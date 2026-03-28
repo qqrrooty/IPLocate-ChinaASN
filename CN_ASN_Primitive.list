@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-03-28 01:49:32.897Z
-# ASN: 914
+# 最后更新： CST 2026-03-29 01:27:55.124Z
+# ASN: 913
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,138421 // China Unicom
@@ -210,7 +210,6 @@ IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
 IP-ASN,152711 // "Suike Information Technology SiChuan Co.
-IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,151270 // China Internet Network Information Center
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
 IP-ASN,146806 // "Beijing Yunlian Interactive Technology Co.
@@ -353,6 +352,7 @@ IP-ASN,139136 // "ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.
 IP-ASN,137719 // "Qingdao Weidong Big Data Technology Co.
 IP-ASN,9389 // BEIJING SHENZHOU GREATWALL COMMUNICATION
 IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
+IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,146746 // "TaiKang Insurance Group CO.
 IP-ASN,146842 // ChinaDataCom Corporation Limited
 IP-ASN,147008 // Shenzhen Dianjiang Technology Co Ltd
@@ -526,7 +526,6 @@ IP-ASN,17739 // Shanghai Telecom Haplink Network Co Ltd (Haplink)
 IP-ASN,45071 // "No.8 Xing Guang 5th Street
 IP-ASN,56012 // LGNET China
 IP-ASN,24141 // "Shanghai DMT Information Network cor.
-IP-ASN,150184 // Chen Chi
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,17776 // China Enterprise ICT Solutions Limited
 IP-ASN,38358 // "3 Fuxing Road
@@ -611,6 +610,7 @@ IP-ASN,134477 // Shaoxing Junruiyunjisuan Co Ltd
 IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
 IP-ASN,211575 // Rui Feng
 IP-ASN,150141 // Wang Jiacheng
+IP-ASN,150184 // Chen Chi
 IP-ASN,152892 // Liu Jiarong
 IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
@@ -888,7 +888,6 @@ IP-ASN,214848 // "Tianjin Compatible Network Technology Co.
 IP-ASN,210738 // Peng Chen
 IP-ASN,214610 // YangXu Liao
 IP-ASN,198266 // Yunrui Gu
-IP-ASN,214704 // Xin Zhao
 IP-ASN,215315 // LIZI LUO
 IP-ASN,151673 // Chen Xinyu
 IP-ASN,215832 // Jian Xu
