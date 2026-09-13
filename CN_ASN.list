@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-13 02:58:14.816Z
-# ASN: 1128
+# 最后更新： CST 2026-09-14 03:12:43.700Z
+# ASN: 1129
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511,no-resolve
@@ -123,7 +123,6 @@ IP-ASN,63570,no-resolve
 IP-ASN,63571,no-resolve
 IP-ASN,212371,no-resolve
 IP-ASN,10111,no-resolve
-IP-ASN,219289,no-resolve
 IP-ASN,56048,no-resolve
 IP-ASN,58593,no-resolve
 IP-ASN,56005,no-resolve
@@ -690,10 +689,12 @@ IP-ASN,133492,no-resolve
 IP-ASN,139100,no-resolve
 IP-ASN,135646,no-resolve
 IP-ASN,45576,no-resolve
+IP-ASN,219289,no-resolve
 IP-ASN,207338,no-resolve
 IP-ASN,139859,no-resolve
 IP-ASN,18257,no-resolve
 IP-ASN,24144,no-resolve
+IP-ASN,24239,no-resolve
 IP-ASN,139161,no-resolve
 IP-ASN,139112,no-resolve
 IP-ASN,139317,no-resolve
@@ -796,6 +797,7 @@ IP-ASN,143724,no-resolve
 IP-ASN,143741,no-resolve
 IP-ASN,143751,no-resolve
 IP-ASN,143758,no-resolve
+IP-ASN,143773,no-resolve
 IP-ASN,143786,no-resolve
 IP-ASN,143806,no-resolve
 IP-ASN,143810,no-resolve
@@ -860,6 +862,7 @@ IP-ASN,144676,no-resolve
 IP-ASN,144680,no-resolve
 IP-ASN,144681,no-resolve
 IP-ASN,144694,no-resolve
+IP-ASN,145205,no-resolve
 IP-ASN,145206,no-resolve
 IP-ASN,145219,no-resolve
 IP-ASN,145241,no-resolve
@@ -1029,6 +1032,7 @@ IP-ASN,140376,no-resolve
 IP-ASN,140377,no-resolve
 IP-ASN,140378,no-resolve
 IP-ASN,215507,no-resolve
+IP-ASN,219378,no-resolve
 IP-ASN,204518,no-resolve
 IP-ASN,218883,no-resolve
 IP-ASN,214955,no-resolve
@@ -1069,12 +1073,10 @@ IP-ASN,205532,no-resolve
 IP-ASN,215007,no-resolve
 IP-ASN,207615,no-resolve
 IP-ASN,209586,no-resolve
-IP-ASN,24239,no-resolve
 IP-ASN,200720,no-resolve
 IP-ASN,215969,no-resolve
 IP-ASN,209261,no-resolve
 IP-ASN,218867,no-resolve
-IP-ASN,219378,no-resolve
 IP-ASN,210426,no-resolve
 IP-ASN,198516,no-resolve
 IP-ASN,214921,no-resolve
@@ -1124,7 +1126,6 @@ IP-ASN,205369,no-resolve
 IP-ASN,210773,no-resolve
 IP-ASN,201944,no-resolve
 IP-ASN,201705,no-resolve
-IP-ASN,219078,no-resolve
 IP-ASN,203643,no-resolve
 IP-ASN,219016,no-resolve
 IP-ASN,216100,no-resolve

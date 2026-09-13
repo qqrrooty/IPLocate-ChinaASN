@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-13 02:58:14.816Z
-# ASN: 1128
+# 最后更新： CST 2026-09-14 03:12:43.700Z
+# ASN: 1129
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -123,7 +123,6 @@ IP-ASN,63570 // AS63570-41
 IP-ASN,63571 // "Shenzhen cyberlink Century Investment Co.
 IP-ASN,212371 // "Huizhou HuiGu CloudTech Co.
 IP-ASN,10111 // Zeofast Network
-IP-ASN,219289 // Jiang Songyang
 IP-ASN,56048 // China Mobile Communications Corporation
 IP-ASN,58593 // "Shanghai Blue Cloud Technology Co.
 IP-ASN,56005 // "Zhengzhou Fastidc Technology Co.
@@ -690,10 +689,12 @@ IP-ASN,133492 // "Aiyun Technology Co.
 IP-ASN,139100 // BMW Brilliance Automotive Ltd.
 IP-ASN,135646 // Luginbash AS
 IP-ASN,45576 // Tsinghua University
+IP-ASN,219289 // Jiang Songyang
 IP-ASN,207338 // Zhang Zongyu
 IP-ASN,139859 // TemasekTech.com
 IP-ASN,18257 // "ChangZhou Bitcomm Software Technology Co.
 IP-ASN,24144 // "Wuhan LSHIY Network Technology Co.
+IP-ASN,24239 // TWD2 Education and Research Network
 IP-ASN,139161 // Xinjiang Rural Credit Union
 IP-ASN,139112 // "Shanghai Qnet Networking Technology Co.
 IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
@@ -796,6 +797,7 @@ IP-ASN,143724 // AS143724-51
 IP-ASN,143741 // AS143741-68
 IP-ASN,143751 // AS143751-78
 IP-ASN,143758 // AS143758-85
+IP-ASN,143773 // AS143773-100
 IP-ASN,143786 // AS143786-113
 IP-ASN,143806 // AS143806-133
 IP-ASN,143810 // AS143810-137
@@ -860,6 +862,7 @@ IP-ASN,144676 // AS144676-491
 IP-ASN,144680 // AS144680-495
 IP-ASN,144681 // AS144681-496
 IP-ASN,144694 // AS144694-509
+IP-ASN,145205 // AS145205-508
 IP-ASN,145206 // AS145206-509
 IP-ASN,145219 // AS145219-10
 IP-ASN,145241 // AS145241-32
@@ -1029,6 +1032,7 @@ IP-ASN,140376 // China Telecom
 IP-ASN,140377 // China Telecom
 IP-ASN,140378 // China Telecom
 IP-ASN,215507 // KAI BI
+IP-ASN,219378 // ZHANG XIYUAN
 IP-ASN,204518 // Shiyu Zhou
 IP-ASN,218883 // "Melspectrum Technology Co.
 IP-ASN,214955 // Weikang Zeng
@@ -1069,12 +1073,10 @@ IP-ASN,205532 // Zichao Heng
 IP-ASN,215007 // BOZHAN LIANG
 IP-ASN,207615 // XINYU ZHANG
 IP-ASN,209586 // SUNYOU PAN
-IP-ASN,24239 // TWD2 Education and Research Network
 IP-ASN,200720 // Yichen Shi
 IP-ASN,215969 // Tan Zhang
 IP-ASN,209261 // Qiao Jiang
 IP-ASN,218867 // Sun Youzhi
-IP-ASN,219378 // ZHANG XIYUAN
 IP-ASN,210426 // Liang Zhu
 IP-ASN,198516 // Yi Huang
 IP-ASN,214921 // Yisong Wang
@@ -1124,7 +1126,6 @@ IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,201705 // Xinrun Li
-IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
 IP-ASN,216100 // Rui Li
