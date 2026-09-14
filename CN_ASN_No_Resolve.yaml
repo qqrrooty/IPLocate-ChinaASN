@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-14 03:12:43.700Z
-# ASN: 1129
+# 最后更新： CST 2026-09-15 04:45:40.755Z
+# ASN: 1130
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -1127,6 +1127,7 @@ payload:
   - IP-ASN,210773
   - IP-ASN,201944
   - IP-ASN,201705
+  - IP-ASN,219078
   - IP-ASN,203643
   - IP-ASN,219016
   - IP-ASN,216100
