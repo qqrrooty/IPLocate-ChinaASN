@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-17 03:52:14.101Z
-# ASN: 1128
+# 最后更新： CST 2026-09-18 04:01:16.546Z
+# ASN: 1132
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -151,7 +151,6 @@ IP-ASN,133865 // "Beijing IQIYI Science & Technology Co.
 IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
-IP-ASN,151300 // AS151300-85
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
@@ -383,6 +382,7 @@ IP-ASN,211843 // Nanjing Tiankai Information Technology Co.Ltd.
 IP-ASN,146822 // Shenzhenshi Zhongyun Shujujishu Youxiangongsi
 IP-ASN,7653 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,7609 // Morgan Stanley Management Service (Shanghai) Limited
+IP-ASN,151300 // AS151300-85
 IP-ASN,58543 // Guangdong
 IP-ASN,146814 // "Hong Kong University of Science and Technology
 IP-ASN,23852 // "17/FL
@@ -630,6 +630,7 @@ IP-ASN,211992 // Wei Tang
 IP-ASN,59265 // China telecom A?A?A? China Next Generation Internet
 IP-ASN,24302 // China Education and Research Network (CERNET)
 IP-ASN,150370 // "Beijing WuYuYunLian Network Technology Co.
+IP-ASN,133465 // Duke Kunshan University
 IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,204856 // Lijun Li
@@ -698,6 +699,7 @@ IP-ASN,139112 // "Shanghai Qnet Networking Technology Co.
 IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
+IP-ASN,218796 // Yunsheng Deng
 IP-ASN,140731 // TOHU Public Internet
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
@@ -855,6 +857,7 @@ IP-ASN,144529 // AS144529-344
 IP-ASN,144535 // AS144535-350
 IP-ASN,144551 // AS144551-366
 IP-ASN,144585 // AS144585-400
+IP-ASN,144601 // AS144601-416
 IP-ASN,144633 // AS144633-448
 IP-ASN,144656 // AS144656-471
 IP-ASN,144676 // AS144676-491
@@ -889,6 +892,7 @@ IP-ASN,145597 // AS145597-388
 IP-ASN,145633 // AS145633-424
 IP-ASN,145636 // AS145636-427
 IP-ASN,145642 // AS145642-433
+IP-ASN,145644 // AS145644-435
 IP-ASN,145646 // AS145646-437
 IP-ASN,145670 // AS145670-461
 IP-ASN,137726 // China Petroleum & Chemical Corporation
@@ -1099,7 +1103,6 @@ IP-ASN,207303 // Xilin Xie
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,219397 // Liangmin Li
-IP-ASN,218796 // Yunsheng Deng
 IP-ASN,198135 // YONG LI
 IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
@@ -1127,6 +1130,7 @@ IP-ASN,201705 // Xinrun Li
 IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
+IP-ASN,218668 // XU YINUO
 IP-ASN,216100 // Rui Li
 IP-ASN,218834 // Kaixiang Nie
 IP-ASN,205008 // Junqi Huang
