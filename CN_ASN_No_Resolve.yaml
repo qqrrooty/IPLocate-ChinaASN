@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-18 04:01:16.546Z
+# 最后更新： CST 2026-09-19 03:27:24.358Z
 # ASN: 1132
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -152,6 +152,7 @@ payload:
   - IP-ASN,59037
   - IP-ASN,137691
   - IP-ASN,151185
+  - IP-ASN,151300
   - IP-ASN,140717
   - IP-ASN,140716
   - IP-ASN,134765
@@ -383,7 +384,6 @@ payload:
   - IP-ASN,146822
   - IP-ASN,7653
   - IP-ASN,7609
-  - IP-ASN,151300
   - IP-ASN,58543
   - IP-ASN,146814
   - IP-ASN,23852
@@ -488,7 +488,6 @@ payload:
   - IP-ASN,137787
   - IP-ASN,137690
   - IP-ASN,24149
-  - IP-ASN,213876
   - IP-ASN,9939
   - IP-ASN,219300
   - IP-ASN,63617
@@ -519,6 +518,7 @@ payload:
   - IP-ASN,44421
   - IP-ASN,205651
   - IP-ASN,211575
+  - IP-ASN,201705
   - IP-ASN,210352
   - IP-ASN,151257
   - IP-ASN,151397
@@ -1038,6 +1038,7 @@ payload:
   - IP-ASN,215507
   - IP-ASN,219378
   - IP-ASN,204518
+  - IP-ASN,213876
   - IP-ASN,218883
   - IP-ASN,214955
   - IP-ASN,209481
@@ -1127,7 +1128,6 @@ payload:
   - IP-ASN,205369
   - IP-ASN,210773
   - IP-ASN,201944
-  - IP-ASN,201705
   - IP-ASN,219078
   - IP-ASN,203643
   - IP-ASN,219016
