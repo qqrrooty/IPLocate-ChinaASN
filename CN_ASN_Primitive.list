@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-19 03:27:24.358Z
-# ASN: 1132
+# 最后更新： CST 2026-09-20 03:10:26.314Z
+# ASN: 1133
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -203,7 +203,6 @@ IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,210041 // Licheng MAO
 IP-ASN,139073 // Fantasy Sky Internet eXchange
-IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
 IP-ASN,203236 // Mingyang Shen
@@ -768,6 +767,7 @@ IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,141445 // Phoenix Network
 IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
+IP-ASN,142664 // AS142664-15
 IP-ASN,142690 // AS142690-41
 IP-ASN,142707 // AS142707-58
 IP-ASN,142749 // AS142749-100
@@ -1096,6 +1096,7 @@ IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
+IP-ASN,50922 // SHI Li Li
 IP-ASN,208698 // Huang Zhijie
 IP-ASN,139249 // ENMOE
 IP-ASN,214933 // Bingxin Liu
