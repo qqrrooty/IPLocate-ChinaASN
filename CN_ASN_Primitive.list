@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-20 03:10:26.314Z
-# ASN: 1133
+# 最后更新： CST 2026-09-21 03:17:09.085Z
+# ASN: 1131
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -123,7 +123,6 @@ IP-ASN,63570 // AS63570-41
 IP-ASN,63571 // "Shenzhen cyberlink Century Investment Co.
 IP-ASN,212371 // "Huizhou HuiGu CloudTech Co.
 IP-ASN,10111 // Zeofast Network
-IP-ASN,219289 // Jiang Songyang
 IP-ASN,56048 // China Mobile Communications Corporation
 IP-ASN,58593 // "Shanghai Blue Cloud Technology Co.
 IP-ASN,56005 // "Zhengzhou Fastidc Technology Co.
@@ -194,7 +193,6 @@ IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,203991 // Hainan Jinzhao Biotechnology Co. Ltd.
 IP-ASN,151673 // Chen Xinyu
 IP-ASN,215502 // Xing Qingyu
-IP-ASN,208754 // XingRui Li
 IP-ASN,204211 // "Shanghai Yingyun Network Technology Co.
 IP-ASN,197817 // Yunxiao Bai
 IP-ASN,213605 // Liu HaoRan
@@ -203,6 +201,7 @@ IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,210041 // Licheng MAO
 IP-ASN,139073 // Fantasy Sky Internet eXchange
+IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
 IP-ASN,203236 // Mingyang Shen
@@ -1040,8 +1039,10 @@ IP-ASN,204518 // Shiyu Zhou
 IP-ASN,213876 // Qiyuan Chen
 IP-ASN,218883 // "Melspectrum Technology Co.
 IP-ASN,214955 // Weikang Zeng
+IP-ASN,208754 // XingRui Li
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,206574 // "Beijing GongGongFa Technology Co.
+IP-ASN,218985 // YU WANG
 IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,49904 // Xiaodong Qi
 IP-ASN,204185 // Yuchen Ma
@@ -1051,7 +1052,6 @@ IP-ASN,219283 // Haohao Zhang
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,219480 // shuai wang
-IP-ASN,218985 // YU WANG
 IP-ASN,219208 // MAOQUN QIU
 IP-ASN,200959 // Yaoxuan Chen
 IP-ASN,203655 // zhiwensun
@@ -1096,7 +1096,6 @@ IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
-IP-ASN,50922 // SHI Li Li
 IP-ASN,208698 // Huang Zhijie
 IP-ASN,139249 // ENMOE
 IP-ASN,214933 // Bingxin Liu
@@ -1128,7 +1127,6 @@ IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
-IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
 IP-ASN,218668 // XU YINUO
