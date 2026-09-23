@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-23 04:01:38.846Z
-# ASN: 1138
+# 最后更新： CST 2026-09-24 03:58:49.230Z
+# ASN: 1139
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -173,6 +173,7 @@ IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,55468 // China Radio International
+IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
@@ -304,7 +305,6 @@ IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
-IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,139137 // Chinese Academy of Telecommunication Research
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -775,6 +775,7 @@ IP-ASN,142977 // AS142977-328
 IP-ASN,143010 // AS143010-361
 IP-ASN,143073 // AS143073-424
 IP-ASN,143095 // AS143095-446
+IP-ASN,143147 // AS143147-498
 IP-ASN,143155 // AS143155-506
 IP-ASN,143195 // AS143195-32
 IP-ASN,143212 // AS143212-49
@@ -1109,7 +1110,6 @@ IP-ASN,198266 // Yunrui Gu
 IP-ASN,207303 // Xilin Xie
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
-IP-ASN,219397 // Liangmin Li
 IP-ASN,198135 // YONG LI
 IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
@@ -1137,6 +1137,7 @@ IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
 IP-ASN,218668 // XU YINUO
+IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
 IP-ASN,218834 // Kaixiang Nie
 IP-ASN,205008 // Junqi Huang
