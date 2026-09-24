@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-24 03:58:49.230Z
-# ASN: 1139
+# 最后更新： CST 2026-09-25 04:17:25.486Z
+# ASN: 1142
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -174,7 +174,6 @@ payload:
   - IP-ASN,58834
   - IP-ASN,151302
   - IP-ASN,55468
-  - IP-ASN,63567
   - IP-ASN,139180
   - IP-ASN,140979
   - IP-ASN,59029
@@ -306,6 +305,7 @@ payload:
   - IP-ASN,9811
   - IP-ASN,212237
   - IP-ASN,131574
+  - IP-ASN,63567
   - IP-ASN,59049
   - IP-ASN,139137
   - IP-ASN,63580
@@ -413,7 +413,6 @@ payload:
   - IP-ASN,148969
   - IP-ASN,139874
   - IP-ASN,59011
-  - IP-ASN,131539
   - IP-ASN,45113
   - IP-ASN,132225
   - IP-ASN,59223
@@ -627,6 +626,7 @@ payload:
   - IP-ASN,154185
   - IP-ASN,205794
   - IP-ASN,211992
+  - IP-ASN,59265
   - IP-ASN,24302
   - IP-ASN,150370
   - IP-ASN,133465
@@ -678,6 +678,7 @@ payload:
   - IP-ASN,151461
   - IP-ASN,151462
   - IP-ASN,38355
+  - IP-ASN,55641
   - IP-ASN,151276
   - IP-ASN,24349
   - IP-ASN,215750
@@ -820,6 +821,7 @@ payload:
   - IP-ASN,143974
   - IP-ASN,143984
   - IP-ASN,144006
+  - IP-ASN,144026
   - IP-ASN,144031
   - IP-ASN,144037
   - IP-ASN,144056
@@ -1111,6 +1113,7 @@ payload:
   - IP-ASN,207303
   - IP-ASN,202335
   - IP-ASN,198681
+  - IP-ASN,219397
   - IP-ASN,198135
   - IP-ASN,200472
   - IP-ASN,214610

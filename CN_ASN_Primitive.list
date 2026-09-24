@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-24 03:58:49.230Z
-# ASN: 1139
+# 最后更新： CST 2026-09-25 04:17:25.486Z
+# ASN: 1142
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -173,7 +173,6 @@ IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,55468 // China Radio International
-IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
@@ -305,6 +304,7 @@ IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
+IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,139137 // Chinese Academy of Telecommunication Research
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -412,7 +412,6 @@ IP-ASN,134419 // Beihai
 IP-ASN,148969 // China Telecom
 IP-ASN,139874 // "Wu'an Chihong Network Technology Co.
 IP-ASN,59011 // "Beijing Yunlin Network Technology Co.
-IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,45113 // "Shanxi Datong Coal Group Communication Co.
 IP-ASN,132225 // China Telecom
 IP-ASN,59223 // CHINANET Qinghai province IDC network
@@ -626,6 +625,7 @@ IP-ASN,142106 // AS142106-40
 IP-ASN,154185 // Liu HaoRan
 IP-ASN,205794 // JINZE YANG
 IP-ASN,211992 // Wei Tang
+IP-ASN,59265 // China telecom A?A?A? China Next Generation Internet
 IP-ASN,24302 // China Education and Research Network (CERNET)
 IP-ASN,150370 // "Beijing WuYuYunLian Network Technology Co.
 IP-ASN,133465 // Duke Kunshan University
@@ -677,6 +677,7 @@ IP-ASN,151460 // AS151460-38
 IP-ASN,151461 // AS151461-39
 IP-ASN,151462 // AS151462-40
 IP-ASN,38355 // ChongQing Broadcast & TV Broadband IP MAN
+IP-ASN,55641 // "Beijing CNISP Technology Co.
 IP-ASN,151276 // China Internet Network Information Center
 IP-ASN,24349 // CERNET2 IX at Peking University
 IP-ASN,215750 // DAQIAN HUANG
@@ -819,6 +820,7 @@ IP-ASN,143967 // AS143967-294
 IP-ASN,143974 // AS143974-301
 IP-ASN,143984 // AS143984-311
 IP-ASN,144006 // AS144006-333
+IP-ASN,144026 // AS144026-353
 IP-ASN,144031 // AS144031-358
 IP-ASN,144037 // AS144037-364
 IP-ASN,144056 // AS144056-383
@@ -1110,6 +1112,7 @@ IP-ASN,198266 // Yunrui Gu
 IP-ASN,207303 // Xilin Xie
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
+IP-ASN,219397 // Liangmin Li
 IP-ASN,198135 // YONG LI
 IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
