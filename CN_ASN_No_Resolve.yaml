@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-09-29 06:25:30.177Z
+# 最后更新： CST 2026-09-30 05:17:24.758Z
 # ASN: 1147
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -195,7 +195,9 @@ payload:
   - IP-ASN,203991
   - IP-ASN,151673
   - IP-ASN,215502
+  - IP-ASN,208754
   - IP-ASN,204211
+  - IP-ASN,218668
   - IP-ASN,197817
   - IP-ASN,213605
   - IP-ASN,135671
@@ -1052,7 +1054,6 @@ payload:
   - IP-ASN,213876
   - IP-ASN,218883
   - IP-ASN,214955
-  - IP-ASN,208754
   - IP-ASN,209481
   - IP-ASN,206574
   - IP-ASN,218985
@@ -1093,7 +1094,6 @@ payload:
   - IP-ASN,200720
   - IP-ASN,215969
   - IP-ASN,209261
-  - IP-ASN,218867
   - IP-ASN,210426
   - IP-ASN,198516
   - IP-ASN,214921
@@ -1112,6 +1112,7 @@ payload:
   - IP-ASN,202396
   - IP-ASN,208698
   - IP-ASN,139249
+  - IP-ASN,218867
   - IP-ASN,214933
   - IP-ASN,198266
   - IP-ASN,207303
@@ -1145,7 +1146,6 @@ payload:
   - IP-ASN,219078
   - IP-ASN,203643
   - IP-ASN,219016
-  - IP-ASN,218668
   - IP-ASN,207317
   - IP-ASN,216100
   - IP-ASN,218834
