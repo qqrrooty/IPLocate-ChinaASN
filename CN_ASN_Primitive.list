@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-03 05:10:43.555Z
-# ASN: 1147
+# 最后更新： CST 2026-10-04 03:41:40.397Z
+# ASN: 1150
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -174,7 +174,6 @@ IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,55468 // China Radio International
-IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
@@ -306,6 +305,7 @@ IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
+IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,139137 // Chinese Academy of Telecommunication Research
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -536,6 +536,7 @@ IP-ASN,17739 // Shanghai Telecom Haplink Network Co Ltd (Haplink)
 IP-ASN,58858 // China Internet Network Infomation Center
 IP-ASN,45071 // "No.8 Xing Guang 5th Street
 IP-ASN,56012 // LGNET China
+IP-ASN,24141 // "Shanghai DMT Information Network cor.
 IP-ASN,24424 // "Beijing Gu Xiang Information Technology Co.
 IP-ASN,17776 // China Enterprise ICT Solutions Limited
 IP-ASN,38358 // "3 Fuxing Road
@@ -880,6 +881,7 @@ IP-ASN,145219 // AS145219-10
 IP-ASN,145241 // AS145241-32
 IP-ASN,145249 // AS145249-40
 IP-ASN,145311 // AS145311-102
+IP-ASN,145317 // AS145317-108
 IP-ASN,145327 // AS145327-118
 IP-ASN,145336 // AS145336-127
 IP-ASN,145338 // AS145338-129
@@ -909,6 +911,7 @@ IP-ASN,145642 // AS145642-433
 IP-ASN,145644 // AS145644-435
 IP-ASN,145646 // AS145646-437
 IP-ASN,145670 // AS145670-461
+IP-ASN,145690 // AS145690-481
 IP-ASN,137726 // China Petroleum & Chemical Corporation
 IP-ASN,45275 // BII Group Holdings Ltd
 IP-ASN,140852 // China Telecom
