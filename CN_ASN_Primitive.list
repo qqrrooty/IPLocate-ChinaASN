@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-04 03:41:40.397Z
-# ASN: 1150
+# 最后更新： CST 2026-10-05 03:55:36.246Z
+# ASN: 1152
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -30,7 +30,6 @@ IP-ASN,141006 // China Telecom
 IP-ASN,139018 // China Telecom
 IP-ASN,139587 // China Telecom
 IP-ASN,23724 // "IDC
-IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
 IP-ASN,152672 // Aiyun (HK) Network
 IP-ASN,45102 // "Alibaba (US) Technology Co.
 IP-ASN,24429 // "Zhejiang Taobao Network Co.
@@ -54,6 +53,7 @@ IP-ASN,141739 // China Telecom
 IP-ASN,146810 // Shanghai Hewlett-Packard Co. Ltd. Dalian Branch
 IP-ASN,10981 // Educational Solutions LLC
 IP-ASN,199310 // XIN BING XIAN
+IP-ASN,146813 // Shanghai Suiji Networks Tech. Co. Ltd.
 IP-ASN,133774 // Fuzhou
 IP-ASN,63614 // "A4
 IP-ASN,23650 // China Telecom
@@ -811,6 +811,7 @@ IP-ASN,143858 // AS143858-185
 IP-ASN,143878 // AS143878-205
 IP-ASN,143888 // AS143888-215
 IP-ASN,143890 // AS143890-217
+IP-ASN,143901 // AS143901-228
 IP-ASN,143917 // AS143917-244
 IP-ASN,143919 // AS143919-246
 IP-ASN,143920 // AS143920-247
@@ -833,6 +834,7 @@ IP-ASN,144126 // AS144126-453
 IP-ASN,144128 // AS144128-455
 IP-ASN,144132 // AS144132-459
 IP-ASN,144164 // AS144164-491
+IP-ASN,144181 // AS144181-508
 IP-ASN,144185 // AS144185-512
 IP-ASN,144191 // AS144191-6
 IP-ASN,144211 // AS144211-26
