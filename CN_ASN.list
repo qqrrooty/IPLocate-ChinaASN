@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-09 05:50:33.420Z
-# ASN: 1007
+# 最后更新： CST 2026-10-10 05:29:32.255Z
+# ASN: 1010
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511,no-resolve
@@ -123,7 +123,6 @@ IP-ASN,63570,no-resolve
 IP-ASN,63571,no-resolve
 IP-ASN,212371,no-resolve
 IP-ASN,10111,no-resolve
-IP-ASN,142111,no-resolve
 IP-ASN,219289,no-resolve
 IP-ASN,56048,no-resolve
 IP-ASN,58593,no-resolve
@@ -204,6 +203,7 @@ IP-ASN,133846,no-resolve
 IP-ASN,7721,no-resolve
 IP-ASN,210041,no-resolve
 IP-ASN,139073,no-resolve
+IP-ASN,50922,no-resolve
 IP-ASN,209294,no-resolve
 IP-ASN,133555,no-resolve
 IP-ASN,203236,no-resolve
@@ -226,6 +226,7 @@ IP-ASN,151253,no-resolve
 IP-ASN,138457,no-resolve
 IP-ASN,135054,no-resolve
 IP-ASN,133219,no-resolve
+IP-ASN,218834,no-resolve
 IP-ASN,146772,no-resolve
 IP-ASN,134772,no-resolve
 IP-ASN,146806,no-resolve
@@ -305,6 +306,7 @@ IP-ASN,9811,no-resolve
 IP-ASN,212237,no-resolve
 IP-ASN,131574,no-resolve
 IP-ASN,63567,no-resolve
+IP-ASN,151263,no-resolve
 IP-ASN,59049,no-resolve
 IP-ASN,139137,no-resolve
 IP-ASN,63580,no-resolve
@@ -317,6 +319,7 @@ IP-ASN,151295,no-resolve
 IP-ASN,63629,no-resolve
 IP-ASN,63631,no-resolve
 IP-ASN,63634,no-resolve
+IP-ASN,45097,no-resolve
 IP-ASN,63722,no-resolve
 IP-ASN,37969,no-resolve
 IP-ASN,136189,no-resolve
@@ -371,6 +374,7 @@ IP-ASN,139141,no-resolve
 IP-ASN,139136,no-resolve
 IP-ASN,137719,no-resolve
 IP-ASN,9389,no-resolve
+IP-ASN,142111,no-resolve
 IP-ASN,146746,no-resolve
 IP-ASN,146842,no-resolve
 IP-ASN,147008,no-resolve
@@ -450,7 +454,6 @@ IP-ASN,137699,no-resolve
 IP-ASN,9809,no-resolve
 IP-ASN,63648,no-resolve
 IP-ASN,132437,no-resolve
-IP-ASN,45097,no-resolve
 IP-ASN,138407,no-resolve
 IP-ASN,23844,no-resolve
 IP-ASN,59045,no-resolve
@@ -769,7 +772,9 @@ IP-ASN,142664,no-resolve
 IP-ASN,142690,no-resolve
 IP-ASN,143568,no-resolve
 IP-ASN,143888,no-resolve
+IP-ASN,144191,no-resolve
 IP-ASN,144405,no-resolve
+IP-ASN,145438,no-resolve
 IP-ASN,137726,no-resolve
 IP-ASN,45275,no-resolve
 IP-ASN,140852,no-resolve
@@ -955,7 +960,6 @@ IP-ASN,209586,no-resolve
 IP-ASN,200720,no-resolve
 IP-ASN,215969,no-resolve
 IP-ASN,209261,no-resolve
-IP-ASN,218834,no-resolve
 IP-ASN,210426,no-resolve
 IP-ASN,198516,no-resolve
 IP-ASN,214921,no-resolve
@@ -972,7 +976,6 @@ IP-ASN,215848,no-resolve
 IP-ASN,212982,no-resolve
 IP-ASN,213545,no-resolve
 IP-ASN,202396,no-resolve
-IP-ASN,50922,no-resolve
 IP-ASN,208698,no-resolve
 IP-ASN,139249,no-resolve
 IP-ASN,198266,no-resolve

@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-09 05:50:33.420Z
-# ASN: 1007
+# 最后更新： CST 2026-10-10 05:29:32.255Z
+# ASN: 1010
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -123,7 +123,6 @@ IP-ASN,63570 // AS63570-41
 IP-ASN,63571 // "Shenzhen cyberlink Century Investment Co.
 IP-ASN,212371 // "Huizhou HuiGu CloudTech Co.
 IP-ASN,10111 // Zeofast Network
-IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,219289 // Jiang Songyang
 IP-ASN,56048 // China Mobile Communications Corporation
 IP-ASN,58593 // "Shanghai Blue Cloud Technology Co.
@@ -204,6 +203,7 @@ IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,210041 // Licheng MAO
 IP-ASN,139073 // Fantasy Sky Internet eXchange
+IP-ASN,50922 // SHI Li Li
 IP-ASN,209294 // Fan Zhang
 IP-ASN,133555 // DOORPOST Limited
 IP-ASN,203236 // Mingyang Shen
@@ -226,6 +226,7 @@ IP-ASN,151253 // China Internet Network Information Center
 IP-ASN,138457 // China Academy of Information and Communications Technology
 IP-ASN,135054 // China Mobile Communications Corporation
 IP-ASN,133219 // NewMedia Express Pte Ltd
+IP-ASN,218834 // Kaixiang Nie
 IP-ASN,146772 // "Shenzhen Pengcheng communication network Co.
 IP-ASN,134772 // CHINANET Guangdong province Dongguan MAN network
 IP-ASN,146806 // "Beijing Yunlian Interactive Technology Co.
@@ -305,6 +306,7 @@ IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
+IP-ASN,151263 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,139137 // Chinese Academy of Telecommunication Research
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -317,6 +319,7 @@ IP-ASN,151295 // China Internet Network Information Center
 IP-ASN,63629 // "Beijing Autohome imformation technology Co.
 IP-ASN,63631 // "Guangdong Cloudbase Technology Co.
 IP-ASN,63634 // "China Payment & Clearing Network Co.
+IP-ASN,45097 // "Poly facility (Beijing) Technology Co.
 IP-ASN,63722 // "Hodo Telecom Co
 IP-ASN,37969 // "Zhejiang WuLian Network Technology Co.
 IP-ASN,136189 // "Opera Software Technology (Beijing) Co.
@@ -371,6 +374,7 @@ IP-ASN,139141 // Yusys Financial Cloud
 IP-ASN,139136 // "ZHEJIANG PROVINCE NEW-TYPE INTERNET EXCHANGE POINT CO.
 IP-ASN,137719 // "Qingdao Weidong Big Data Technology Co.
 IP-ASN,9389 // BEIJING SHENZHOU GREATWALL COMMUNICATION
+IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
 IP-ASN,146746 // "TaiKang Insurance Group CO.
 IP-ASN,146842 // ChinaDataCom Corporation Limited
 IP-ASN,147008 // Shenzhen Dianjiang Technology Co Ltd
@@ -450,7 +454,6 @@ IP-ASN,137699 // CHINATELECOM Jiangsu Suqian IDC network
 IP-ASN,9809 // "SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.
 IP-ASN,63648 // "Beijing Xiaoju Science and Technology Co.
 IP-ASN,132437 // China Telecom
-IP-ASN,45097 // "Poly facility (Beijing) Technology Co.
 IP-ASN,138407 // China Mobile Communications Corporation
 IP-ASN,23844 // Beijing Guanghuan Xinwang Digital
 IP-ASN,59045 // "Guangzhou navigation information technology co.
@@ -769,7 +772,9 @@ IP-ASN,142664 // AS142664-15
 IP-ASN,142690 // AS142690-41
 IP-ASN,143568 // AS143568-405
 IP-ASN,143888 // AS143888-215
+IP-ASN,144191 // AS144191-6
 IP-ASN,144405 // AS144405-220
+IP-ASN,145438 // AS145438-229
 IP-ASN,137726 // China Petroleum & Chemical Corporation
 IP-ASN,45275 // BII Group Holdings Ltd
 IP-ASN,140852 // China Telecom
@@ -955,7 +960,6 @@ IP-ASN,209586 // SUNYOU PAN
 IP-ASN,200720 // Yichen Shi
 IP-ASN,215969 // Tan Zhang
 IP-ASN,209261 // Qiao Jiang
-IP-ASN,218834 // Kaixiang Nie
 IP-ASN,210426 // Liang Zhu
 IP-ASN,198516 // Yi Huang
 IP-ASN,214921 // Yisong Wang
@@ -972,7 +976,6 @@ IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
-IP-ASN,50922 // SHI Li Li
 IP-ASN,208698 // Huang Zhijie
 IP-ASN,139249 // ENMOE
 IP-ASN,198266 // Yunrui Gu
