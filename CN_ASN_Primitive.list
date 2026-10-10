@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-10 05:29:32.255Z
-# ASN: 1010
+# 最后更新： CST 2026-10-11 04:29:11.514Z
+# ASN: 1014
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -151,6 +151,7 @@ IP-ASN,133865 // "Beijing IQIYI Science & Technology Co.
 IP-ASN,59037 // "Zhejiang Ruili Information Technology Co.
 IP-ASN,137691 // "Heilongjiang Province
 IP-ASN,151185 // China Telecom
+IP-ASN,151300 // AS151300-85
 IP-ASN,140717 // China Unicom
 IP-ASN,140716 // China Unicom
 IP-ASN,134765 // CHINANET Yunnan province IDC1 network
@@ -170,9 +171,9 @@ IP-ASN,139118 // "Shanghai Rugu Info&Tech Co.
 IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
-IP-ASN,151300 // AS151300-85
 IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,55468 // China Radio International
+IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
 IP-ASN,59029 // "People.Cn CO.
@@ -196,7 +197,6 @@ IP-ASN,151673 // Chen Xinyu
 IP-ASN,215502 // Xing Qingyu
 IP-ASN,208754 // XingRui Li
 IP-ASN,204211 // "Shanghai Yingyun Network Technology Co.
-IP-ASN,218668 // XU YINUO
 IP-ASN,213605 // Liu HaoRan
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
@@ -286,6 +286,7 @@ IP-ASN,213404 // "Suzhou Yesong Information Technology Co.
 IP-ASN,152920 // Zhao Chenglin
 IP-ASN,219210 // ZiMo Wang
 IP-ASN,212164 // Jiaxian He
+IP-ASN,201674 // Wen ZhangYu
 IP-ASN,9405 // Test platform Service Center
 IP-ASN,133119 // China Unicom IP network
 IP-ASN,59068 // "Shanghai Pudong Development Bank Co.
@@ -305,7 +306,6 @@ IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
-IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,151263 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,139137 // Chinese Academy of Telecommunication Research
@@ -509,7 +509,6 @@ IP-ASN,218515 // Shenfeng Chen
 IP-ASN,141776 // Baoshuo Network
 IP-ASN,151823 // China Telecom
 IP-ASN,56019 // "Beijing CNISP Technology Co.
-IP-ASN,201674 // Wen ZhangYu
 IP-ASN,134417 // Nanjing
 IP-ASN,24376 // Yahoo Inc.
 IP-ASN,134421 // Yunnan Telecom
@@ -770,10 +769,14 @@ IP-ASN,141445 // Phoenix Network
 IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
 IP-ASN,142664 // AS142664-15
 IP-ASN,142690 // AS142690-41
+IP-ASN,143297 // AS143297-134
 IP-ASN,143568 // AS143568-405
+IP-ASN,143703 // AS143703-30
 IP-ASN,143888 // AS143888-215
+IP-ASN,144127 // AS144127-454
 IP-ASN,144191 // AS144191-6
 IP-ASN,144405 // AS144405-220
+IP-ASN,144446 // AS144446-261
 IP-ASN,145438 // AS145438-229
 IP-ASN,137726 // China Petroleum & Chemical Corporation
 IP-ASN,45275 // BII Group Holdings Ltd
@@ -916,6 +919,7 @@ IP-ASN,140377 // China Telecom
 IP-ASN,140378 // China Telecom
 IP-ASN,215507 // KAI BI
 IP-ASN,219378 // ZHANG XIYUAN
+IP-ASN,218668 // XU YINUO
 IP-ASN,204518 // Shiyu Zhou
 IP-ASN,213876 // Qiyuan Chen
 IP-ASN,218883 // "Melspectrum Technology Co.
