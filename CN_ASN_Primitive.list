@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-11 04:29:11.514Z
-# ASN: 1014
+# 最后更新： CST 2026-10-12 04:49:17.418Z
+# ASN: 1016
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -279,6 +279,7 @@ IP-ASN,214439 // "Zhuhai Xiyun Cloud Technology Co.
 IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
+IP-ASN,218985 // YU WANG
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,219324 // LI GUOLIN
@@ -773,6 +774,7 @@ IP-ASN,143297 // AS143297-134
 IP-ASN,143568 // AS143568-405
 IP-ASN,143703 // AS143703-30
 IP-ASN,143888 // AS143888-215
+IP-ASN,143891 // AS143891-218
 IP-ASN,144127 // AS144127-454
 IP-ASN,144191 // AS144191-6
 IP-ASN,144405 // AS144405-220
@@ -917,16 +919,15 @@ IP-ASN,140375 // China Telecom
 IP-ASN,140376 // China Telecom
 IP-ASN,140377 // China Telecom
 IP-ASN,140378 // China Telecom
+IP-ASN,218668 // XU YINUO
 IP-ASN,215507 // KAI BI
 IP-ASN,219378 // ZHANG XIYUAN
-IP-ASN,218668 // XU YINUO
 IP-ASN,204518 // Shiyu Zhou
 IP-ASN,213876 // Qiyuan Chen
 IP-ASN,218883 // "Melspectrum Technology Co.
 IP-ASN,214955 // Weikang Zeng
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,206574 // "Beijing GongGongFa Technology Co.
-IP-ASN,218985 // YU WANG
 IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,49904 // Xiaodong Qi
 IP-ASN,204185 // Yuchen Ma
@@ -998,6 +999,7 @@ IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,209565 // "Shanghai Candy Rectangle Technology Co.
 IP-ASN,198078 // Hangzhou Silicon-based Agile Technology Limited
 IP-ASN,219489 // Zhengda Li
+IP-ASN,209601 // Yu ZuYuan
 IP-ASN,214963 // Puhe You
 IP-ASN,210738 // Peng Chen
 IP-ASN,212985 // Mingjie Wu
