@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-15 04:29:09.963Z
-# ASN: 1029
+# 最后更新： CST 2026-10-16 04:11:39.962Z
+# ASN: 1032
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -697,6 +697,7 @@ IP-ASN,24144 // "Wuhan LSHIY Network Technology Co.
 IP-ASN,24239 // TWD2 Education and Research Network
 IP-ASN,139161 // Xinjiang Rural Credit Union
 IP-ASN,139112 // "Shanghai Qnet Networking Technology Co.
+IP-ASN,24372 // CERNET2 IX at Harbin Institute of Technology
 IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
@@ -760,7 +761,6 @@ IP-ASN,152118 // Shenzhen Moesys Computer System Co Ltd
 IP-ASN,139791 // Langfang Wopai Communications Co Ltd
 IP-ASN,152631 // Xyhelper Inc
 IP-ASN,152598 // Beijing Gong Gong Fa Technology Co Ltd
-IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,142642 // Atonal System
@@ -786,8 +786,10 @@ IP-ASN,144127 // AS144127-454
 IP-ASN,144140 // AS144140-467
 IP-ASN,144173 // AS144173-500
 IP-ASN,144191 // AS144191-6
+IP-ASN,144284 // AS144284-99
 IP-ASN,144405 // AS144405-220
 IP-ASN,144446 // AS144446-261
+IP-ASN,145228 // AS145228-19
 IP-ASN,145332 // AS145332-123
 IP-ASN,145438 // AS145438-229
 IP-ASN,145551 // AS145551-342
@@ -1030,5 +1032,6 @@ IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
 IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
+IP-ASN,218435 // Yumiao Fu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,201235 // Chen Xi
