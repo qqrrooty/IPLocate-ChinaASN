@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-16 04:11:39.962Z
-# ASN: 1032
+# 最后更新： CST 2026-10-17 03:49:07.765Z
+# ASN: 1033
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -281,6 +281,7 @@ IP-ASN,148982 // Bijie Qiulin Information Technology
 IP-ASN,142433 // DATAWAVE GLOBAL LLC
 IP-ASN,198588 // "Hangzhou Tungsten Cloud Technology Co.
 IP-ASN,218985 // YU WANG
+IP-ASN,218515 // Shenfeng Chen
 IP-ASN,216224 // "Tianjin Tianzhan Technology Co.
 IP-ASN,134413 // KMNIX LLC
 IP-ASN,219324 // LI GUOLIN
@@ -296,7 +297,6 @@ IP-ASN,56006 // "Shanghai Pudong Development Bank Co.
 IP-ASN,45079 // GDS CHANGAN SERVICES Ltd.
 IP-ASN,45075 // China Central Television
 IP-ASN,55992 // Beijing Qihu Technology Company Limited
-IP-ASN,63658 // "Jangsu Bangrun Network Technology Co.
 IP-ASN,56002 // BEIJING MARINE COMMUNICATION AND NAVIGATION CO.
 IP-ASN,4859 // The State Information Center of P.R.China
 IP-ASN,150374 // Jiang Men Shi Tian Da Cloud Co. Ltd
@@ -420,6 +420,7 @@ IP-ASN,134419 // Beihai
 IP-ASN,148969 // China Telecom
 IP-ASN,139874 // "Wu'an Chihong Network Technology Co.
 IP-ASN,59011 // "Beijing Yunlin Network Technology Co.
+IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,45113 // "Shanxi Datong Coal Group Communication Co.
 IP-ASN,132225 // China Telecom
 IP-ASN,59223 // CHINANET Qinghai province IDC network
@@ -508,7 +509,6 @@ IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,151229 // China Internet Network Information Center
 IP-ASN,58862 // "Microsoft (China) Co.
 IP-ASN,38027 // "Information Center
-IP-ASN,218515 // Shenfeng Chen
 IP-ASN,141776 // Baoshuo Network
 IP-ASN,151823 // China Telecom
 IP-ASN,56019 // "Beijing CNISP Technology Co.
@@ -680,7 +680,6 @@ IP-ASN,151459 // AS151459-37
 IP-ASN,151460 // AS151460-38
 IP-ASN,151461 // AS151461-39
 IP-ASN,151462 // AS151462-40
-IP-ASN,38355 // ChongQing Broadcast & TV Broadband IP MAN
 IP-ASN,55641 // "Beijing CNISP Technology Co.
 IP-ASN,151276 // China Internet Network Information Center
 IP-ASN,215750 // DAQIAN HUANG
@@ -761,6 +760,7 @@ IP-ASN,152118 // Shenzhen Moesys Computer System Co Ltd
 IP-ASN,139791 // Langfang Wopai Communications Co Ltd
 IP-ASN,152631 // Xyhelper Inc
 IP-ASN,152598 // Beijing Gong Gong Fa Technology Co Ltd
+IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,142642 // Atonal System
@@ -779,6 +779,7 @@ IP-ASN,143568 // AS143568-405
 IP-ASN,143703 // AS143703-30
 IP-ASN,143888 // AS143888-215
 IP-ASN,143891 // AS143891-218
+IP-ASN,143967 // AS143967-294
 IP-ASN,144017 // AS144017-344
 IP-ASN,144046 // AS144046-373
 IP-ASN,144067 // AS144067-394
@@ -789,9 +790,11 @@ IP-ASN,144191 // AS144191-6
 IP-ASN,144284 // AS144284-99
 IP-ASN,144405 // AS144405-220
 IP-ASN,144446 // AS144446-261
+IP-ASN,144526 // AS144526-341
 IP-ASN,145228 // AS145228-19
 IP-ASN,145332 // AS145332-123
 IP-ASN,145438 // AS145438-229
+IP-ASN,145502 // AS145502-293
 IP-ASN,145551 // AS145551-342
 IP-ASN,145596 // AS145596-387
 IP-ASN,137726 // China Petroleum & Chemical Corporation
@@ -940,7 +943,6 @@ IP-ASN,213876 // Qiyuan Chen
 IP-ASN,218883 // "Melspectrum Technology Co.
 IP-ASN,214955 // Weikang Zeng
 IP-ASN,209481 // HaoYu Deng
-IP-ASN,206574 // "Beijing GongGongFa Technology Co.
 IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,49904 // Xiaodong Qi
 IP-ASN,204185 // Yuchen Ma
@@ -1014,7 +1016,6 @@ IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,209565 // "Shanghai Candy Rectangle Technology Co.
 IP-ASN,198078 // Hangzhou Silicon-based Agile Technology Limited
 IP-ASN,219489 // Zhengda Li
-IP-ASN,209601 // Yu ZuYuan
 IP-ASN,214963 // Puhe You
 IP-ASN,210738 // Peng Chen
 IP-ASN,212985 // Mingjie Wu
