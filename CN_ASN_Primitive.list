@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-17 03:49:07.765Z
-# ASN: 1033
+# 最后更新： CST 2026-10-18 03:02:33.653Z
+# ASN: 1032
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -200,7 +200,6 @@ IP-ASN,204211 // "Shanghai Yingyun Network Technology Co.
 IP-ASN,218668 // XU YINUO
 IP-ASN,213605 // Liu HaoRan
 IP-ASN,135671 // RBB InfoTech
-IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,210041 // Licheng MAO
 IP-ASN,139073 // Fantasy Sky Internet eXchange
@@ -487,6 +486,7 @@ IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,136195 // "Qingdao
+IP-ASN,151490 // GaonIT
 IP-ASN,138401 // TupleTech Corporation
 IP-ASN,151247 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -558,6 +558,7 @@ IP-ASN,7641 // China Broadcasting TV Net
 IP-ASN,9803 // "Beijing Jingxun Public Information Technology Co.
 IP-ASN,9810 // "Beijing Times Netstar Technology Co.
 IP-ASN,23851 // "CHONGQING CNC BROADBAND NETWORKS CO.
+IP-ASN,150173 // PoloCloud Computing (Hong Kong) Limited
 IP-ASN,149979 // China Telecom
 IP-ASN,45074 // Data Management Centre National Bureau of Statistics of China
 IP-ASN,63555 // Beijing Beilong Yunhai Network Data Technology Corporation
@@ -725,8 +726,6 @@ IP-ASN,209218 // Yang Qi
 IP-ASN,151785 // Zhou Yang
 IP-ASN,138211 // TupleTech Corporation
 IP-ASN,208618 // Yangyu Chen
-IP-ASN,150173 // PoloCloud Computing (Hong Kong) Limited
-IP-ASN,151490 // GaonIT
 IP-ASN,152911 // SY ICT
 IP-ASN,136725 // Chen Jitong
 IP-ASN,137436 // Cong Pengbo
@@ -771,6 +770,7 @@ IP-ASN,151194 // Zhu Yucheng
 IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
 IP-ASN,142664 // AS142664-15
 IP-ASN,142690 // AS142690-41
+IP-ASN,143170 // AS143170-7
 IP-ASN,143171 // AS143171-8
 IP-ASN,143264 // AS143264-101
 IP-ASN,143297 // AS143297-134
@@ -939,11 +939,12 @@ IP-ASN,140378 // China Telecom
 IP-ASN,215507 // KAI BI
 IP-ASN,219378 // ZHANG XIYUAN
 IP-ASN,204518 // Shiyu Zhou
-IP-ASN,213876 // Qiyuan Chen
 IP-ASN,218883 // "Melspectrum Technology Co.
 IP-ASN,214955 // Weikang Zeng
 IP-ASN,209481 // HaoYu Deng
+IP-ASN,206574 // "Beijing GongGongFa Technology Co.
 IP-ASN,219207 // YIYUAN CHEN
+IP-ASN,133846 // IMLONGHAO
 IP-ASN,49904 // Xiaodong Qi
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
@@ -999,9 +1000,9 @@ IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,208698 // Huang Zhijie
 IP-ASN,139249 // ENMOE
-IP-ASN,198266 // Yunrui Gu
 IP-ASN,204244 // Xuanchen Xiang
 IP-ASN,207303 // Xilin Xie
+IP-ASN,213876 // Qiyuan Chen
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,219397 // Liangmin Li
@@ -1026,12 +1027,10 @@ IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
-IP-ASN,201944 // HaoRan Liu
 IP-ASN,201705 // Xinrun Li
 IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
-IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
 IP-ASN,218435 // Yumiao Fu
 IP-ASN,205008 // Junqi Huang
