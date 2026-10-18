@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-18 03:02:33.653Z
-# ASN: 1032
+# 最后更新： CST 2026-10-19 03:15:49.297Z
+# ASN: 1036
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -200,6 +200,7 @@ IP-ASN,204211 // "Shanghai Yingyun Network Technology Co.
 IP-ASN,218668 // XU YINUO
 IP-ASN,213605 // Liu HaoRan
 IP-ASN,135671 // RBB InfoTech
+IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
 IP-ASN,210041 // Licheng MAO
 IP-ASN,139073 // Fantasy Sky Internet eXchange
@@ -683,7 +684,6 @@ IP-ASN,151461 // AS151461-39
 IP-ASN,151462 // AS151462-40
 IP-ASN,55641 // "Beijing CNISP Technology Co.
 IP-ASN,151276 // China Internet Network Information Center
-IP-ASN,215750 // DAQIAN HUANG
 IP-ASN,151230 // China Internet Network Information Center
 IP-ASN,137256 // CatIO Network
 IP-ASN,133492 // "Aiyun Technology Co.
@@ -704,6 +704,7 @@ IP-ASN,151418 // Zhang Junkai
 IP-ASN,218796 // Yunsheng Deng
 IP-ASN,210352 // Yijia Xu
 IP-ASN,140731 // TOHU Public Internet
+IP-ASN,215750 // DAQIAN HUANG
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
 IP-ASN,141429 // Agatha Network
@@ -763,7 +764,6 @@ IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,142642 // Atonal System
-IP-ASN,213903 // Liuyang Zhang
 IP-ASN,132623 // Tsukeru Networks
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
@@ -774,6 +774,7 @@ IP-ASN,143170 // AS143170-7
 IP-ASN,143171 // AS143171-8
 IP-ASN,143264 // AS143264-101
 IP-ASN,143297 // AS143297-134
+IP-ASN,143305 // AS143305-142
 IP-ASN,143478 // AS143478-315
 IP-ASN,143568 // AS143568-405
 IP-ASN,143703 // AS143703-30
@@ -787,10 +788,12 @@ IP-ASN,144127 // AS144127-454
 IP-ASN,144140 // AS144140-467
 IP-ASN,144173 // AS144173-500
 IP-ASN,144191 // AS144191-6
+IP-ASN,144263 // AS144263-78
 IP-ASN,144284 // AS144284-99
 IP-ASN,144405 // AS144405-220
 IP-ASN,144446 // AS144446-261
 IP-ASN,144526 // AS144526-341
+IP-ASN,144630 // AS144630-445
 IP-ASN,145228 // AS145228-19
 IP-ASN,145332 // AS145332-123
 IP-ASN,145438 // AS145438-229
@@ -939,12 +942,12 @@ IP-ASN,140378 // China Telecom
 IP-ASN,215507 // KAI BI
 IP-ASN,219378 // ZHANG XIYUAN
 IP-ASN,204518 // Shiyu Zhou
+IP-ASN,213876 // Qiyuan Chen
 IP-ASN,218883 // "Melspectrum Technology Co.
 IP-ASN,214955 // Weikang Zeng
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,206574 // "Beijing GongGongFa Technology Co.
 IP-ASN,219207 // YIYUAN CHEN
-IP-ASN,133846 // IMLONGHAO
 IP-ASN,49904 // Xiaodong Qi
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
@@ -1000,9 +1003,9 @@ IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,208698 // Huang Zhijie
 IP-ASN,139249 // ENMOE
+IP-ASN,198266 // Yunrui Gu
 IP-ASN,204244 // Xuanchen Xiang
 IP-ASN,207303 // Xilin Xie
-IP-ASN,213876 // Qiyuan Chen
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,219397 // Liangmin Li
@@ -1027,11 +1030,12 @@ IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
+IP-ASN,201944 // HaoRan Liu
 IP-ASN,201705 // Xinrun Li
 IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
+IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
-IP-ASN,218435 // Yumiao Fu
 IP-ASN,205008 // Junqi Huang
 IP-ASN,201235 // Chen Xi

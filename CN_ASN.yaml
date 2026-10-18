@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-18 03:02:33.653Z
-# ASN: 1032
+# 最后更新： CST 2026-10-19 03:15:49.297Z
+# ASN: 1036
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -201,6 +201,7 @@ payload:
   - IP-ASN,218668,no-resolve
   - IP-ASN,213605,no-resolve
   - IP-ASN,135671,no-resolve
+  - IP-ASN,133846,no-resolve
   - IP-ASN,7721,no-resolve
   - IP-ASN,210041,no-resolve
   - IP-ASN,139073,no-resolve
@@ -684,7 +685,6 @@ payload:
   - IP-ASN,151462,no-resolve
   - IP-ASN,55641,no-resolve
   - IP-ASN,151276,no-resolve
-  - IP-ASN,215750,no-resolve
   - IP-ASN,151230,no-resolve
   - IP-ASN,137256,no-resolve
   - IP-ASN,133492,no-resolve
@@ -705,6 +705,7 @@ payload:
   - IP-ASN,218796,no-resolve
   - IP-ASN,210352,no-resolve
   - IP-ASN,140731,no-resolve
+  - IP-ASN,215750,no-resolve
   - IP-ASN,151187,no-resolve
   - IP-ASN,140682,no-resolve
   - IP-ASN,141429,no-resolve
@@ -764,7 +765,6 @@ payload:
   - IP-ASN,142586,no-resolve
   - IP-ASN,150373,no-resolve
   - IP-ASN,142642,no-resolve
-  - IP-ASN,213903,no-resolve
   - IP-ASN,132623,no-resolve
   - IP-ASN,139231,no-resolve
   - IP-ASN,151194,no-resolve
@@ -775,6 +775,7 @@ payload:
   - IP-ASN,143171,no-resolve
   - IP-ASN,143264,no-resolve
   - IP-ASN,143297,no-resolve
+  - IP-ASN,143305,no-resolve
   - IP-ASN,143478,no-resolve
   - IP-ASN,143568,no-resolve
   - IP-ASN,143703,no-resolve
@@ -788,10 +789,12 @@ payload:
   - IP-ASN,144140,no-resolve
   - IP-ASN,144173,no-resolve
   - IP-ASN,144191,no-resolve
+  - IP-ASN,144263,no-resolve
   - IP-ASN,144284,no-resolve
   - IP-ASN,144405,no-resolve
   - IP-ASN,144446,no-resolve
   - IP-ASN,144526,no-resolve
+  - IP-ASN,144630,no-resolve
   - IP-ASN,145228,no-resolve
   - IP-ASN,145332,no-resolve
   - IP-ASN,145438,no-resolve
@@ -940,12 +943,12 @@ payload:
   - IP-ASN,215507,no-resolve
   - IP-ASN,219378,no-resolve
   - IP-ASN,204518,no-resolve
+  - IP-ASN,213876,no-resolve
   - IP-ASN,218883,no-resolve
   - IP-ASN,214955,no-resolve
   - IP-ASN,209481,no-resolve
   - IP-ASN,206574,no-resolve
   - IP-ASN,219207,no-resolve
-  - IP-ASN,133846,no-resolve
   - IP-ASN,49904,no-resolve
   - IP-ASN,204185,no-resolve
   - IP-ASN,209645,no-resolve
@@ -1001,9 +1004,9 @@ payload:
   - IP-ASN,202396,no-resolve
   - IP-ASN,208698,no-resolve
   - IP-ASN,139249,no-resolve
+  - IP-ASN,198266,no-resolve
   - IP-ASN,204244,no-resolve
   - IP-ASN,207303,no-resolve
-  - IP-ASN,213876,no-resolve
   - IP-ASN,202335,no-resolve
   - IP-ASN,198681,no-resolve
   - IP-ASN,219397,no-resolve
@@ -1028,11 +1031,12 @@ payload:
   - IP-ASN,207299,no-resolve
   - IP-ASN,205369,no-resolve
   - IP-ASN,210773,no-resolve
+  - IP-ASN,201944,no-resolve
   - IP-ASN,201705,no-resolve
   - IP-ASN,219078,no-resolve
   - IP-ASN,203643,no-resolve
   - IP-ASN,219016,no-resolve
+  - IP-ASN,207317,no-resolve
   - IP-ASN,216100,no-resolve
-  - IP-ASN,218435,no-resolve
   - IP-ASN,205008,no-resolve
   - IP-ASN,201235,no-resolve
