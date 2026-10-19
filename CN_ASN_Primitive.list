@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-19 03:15:49.297Z
-# ASN: 1036
+# 最后更新： CST 2026-10-20 05:21:20.645Z
+# ASN: 1035
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -194,11 +194,11 @@ IP-ASN,203309 // Liangyi Ma
 IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,203991 // Hainan Jinzhao Biotechnology Co. Ltd.
 IP-ASN,151673 // Chen Xinyu
-IP-ASN,215502 // Xing Qingyu
 IP-ASN,208754 // XingRui Li
 IP-ASN,204211 // "Shanghai Yingyun Network Technology Co.
 IP-ASN,218668 // XU YINUO
 IP-ASN,213605 // Liu HaoRan
+IP-ASN,215502 // Xing Qingyu
 IP-ASN,135671 // RBB InfoTech
 IP-ASN,133846 // IMLONGHAO
 IP-ASN,7721 // Qin Cloud Networks
@@ -420,7 +420,6 @@ IP-ASN,134419 // Beihai
 IP-ASN,148969 // China Telecom
 IP-ASN,139874 // "Wu'an Chihong Network Technology Co.
 IP-ASN,59011 // "Beijing Yunlin Network Technology Co.
-IP-ASN,131539 // "Ningbo Zhuo Zhi Innovation Network Technology Co.
 IP-ASN,45113 // "Shanxi Datong Coal Group Communication Co.
 IP-ASN,132225 // China Telecom
 IP-ASN,59223 // CHINANET Qinghai province IDC network
@@ -703,7 +702,6 @@ IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
 IP-ASN,218796 // Yunsheng Deng
 IP-ASN,210352 // Yijia Xu
-IP-ASN,140731 // TOHU Public Internet
 IP-ASN,215750 // DAQIAN HUANG
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
@@ -718,6 +716,7 @@ IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
 IP-ASN,134488 // CTJ's Global Network
 IP-ASN,142553 // Airs Project Private Network Main
+IP-ASN,140731 // TOHU Public Internet
 IP-ASN,137908 // Lin Siqi
 IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,151202 // Suzhou Honoka Technology Co Ltd
@@ -790,6 +789,7 @@ IP-ASN,144173 // AS144173-500
 IP-ASN,144191 // AS144191-6
 IP-ASN,144263 // AS144263-78
 IP-ASN,144284 // AS144284-99
+IP-ASN,144327 // AS144327-142
 IP-ASN,144405 // AS144405-220
 IP-ASN,144446 // AS144446-261
 IP-ASN,144526 // AS144526-341
@@ -995,7 +995,6 @@ IP-ASN,211968 // Chenran MU
 IP-ASN,211158 // Jun CAO
 IP-ASN,208679 // YIKAI-ZHAO
 IP-ASN,197626 // XU ZIYAO
-IP-ASN,216299 // Yang Liuchang
 IP-ASN,213891 // Liu Zhen
 IP-ASN,215848 // Litao Luo
 IP-ASN,212982 // Lu Wang
@@ -1005,6 +1004,7 @@ IP-ASN,208698 // Huang Zhijie
 IP-ASN,139249 // ENMOE
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,204244 // Xuanchen Xiang
+IP-ASN,216299 // Yang Liuchang
 IP-ASN,207303 // Xilin Xie
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
@@ -1017,7 +1017,6 @@ IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,57330 // "Sichuan Giraffe Technology Co.
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
-IP-ASN,209565 // "Shanghai Candy Rectangle Technology Co.
 IP-ASN,198078 // Hangzhou Silicon-based Agile Technology Limited
 IP-ASN,219489 // Zhengda Li
 IP-ASN,214963 // Puhe You
