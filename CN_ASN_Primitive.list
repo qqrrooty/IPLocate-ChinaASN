@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-22 04:27:58.890Z
-# ASN: 1039
+# 最后更新： CST 2026-10-23 04:27:09.211Z
+# ASN: 1043
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -170,8 +170,9 @@ IP-ASN,139118 // "Shanghai Rugu Info&Tech Co.
 IP-ASN,146817 // "Hubei Feixun Network Co.
 IP-ASN,137697 // "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou
 IP-ASN,58834 // Guangdong Cable Corporation Limited
-IP-ASN,151302 // China Internet Network Information Center
+IP-ASN,131483 // "Jiangsu Dongyun Cloud computing co.
 IP-ASN,55468 // China Radio International
+IP-ASN,151302 // China Internet Network Information Center
 IP-ASN,63567 // "Suqian Pugongying Network Service Co.
 IP-ASN,139180 // "Shandong eshinton Network Technology Co.
 IP-ASN,140979 // China Unicom
@@ -389,6 +390,7 @@ IP-ASN,7653 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,7609 // Morgan Stanley Management Service (Shanghai) Limited
 IP-ASN,58543 // Guangdong
 IP-ASN,146814 // "Hong Kong University of Science and Technology
+IP-ASN,144912 // AS144912-215
 IP-ASN,23852 // "17/FL
 IP-ASN,146812 // "Deutsche Bank (China) Co.
 IP-ASN,146771 // "CCB Fintech Co.
@@ -702,6 +704,7 @@ IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
 IP-ASN,218796 // Yunsheng Deng
 IP-ASN,210352 // Yijia Xu
+IP-ASN,140731 // TOHU Public Internet
 IP-ASN,151187 // Shen Jiale
 IP-ASN,140682 // Yang Xuyao
 IP-ASN,141429 // Agatha Network
@@ -715,7 +718,6 @@ IP-ASN,138535 // Wu Qi
 IP-ASN,151674 // Cheng Yijia
 IP-ASN,134488 // CTJ's Global Network
 IP-ASN,142553 // Airs Project Private Network Main
-IP-ASN,140731 // TOHU Public Internet
 IP-ASN,137908 // Lin Siqi
 IP-ASN,202782 // "Yaoheng Digital (Shanghai) Technology Co.
 IP-ASN,151202 // Suzhou Honoka Technology Co Ltd
@@ -762,6 +764,7 @@ IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,142642 // Atonal System
+IP-ASN,213903 // Liuyang Zhang
 IP-ASN,132623 // Tsukeru Networks
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
@@ -801,6 +804,7 @@ IP-ASN,144628 // AS144628-443
 IP-ASN,144630 // AS144630-445
 IP-ASN,145228 // AS145228-19
 IP-ASN,145332 // AS145332-123
+IP-ASN,145387 // AS145387-178
 IP-ASN,145438 // AS145438-229
 IP-ASN,145443 // AS145443-234
 IP-ASN,145502 // AS145502-293
@@ -1022,6 +1026,7 @@ IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,57330 // "Sichuan Giraffe Technology Co.
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
+IP-ASN,198078 // Hangzhou Silicon-based Agile Technology Limited
 IP-ASN,219489 // Zhengda Li
 IP-ASN,214963 // Puhe You
 IP-ASN,210738 // Peng Chen
@@ -1035,7 +1040,6 @@ IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,201705 // Xinrun Li
-IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
 IP-ASN,207317 // Tiefu Chen
