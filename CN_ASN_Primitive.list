@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-23 04:27:09.211Z
-# ASN: 1043
+# 最后更新： CST 2026-10-24 04:13:00.417Z
+# ASN: 1054
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -571,6 +571,7 @@ IP-ASN,56000 // "HERBALIFE(SHANGHAI)MANAGEMENT CO.
 IP-ASN,23910 // China Next Generation Internet CERNET2
 IP-ASN,24357 // CERNET2 IX at South China University of Technology
 IP-ASN,24353 // CERNET2 IX at Xi'an Jiaotong University
+IP-ASN,24364 // CERNET2 IX at Shanghai Jiaotong University
 IP-ASN,138376 // China Education and Research Network (CERNET)
 IP-ASN,138377 // China Education and Research Network (CERNET)
 IP-ASN,24355 // CERNET2 IX at University of Electronic Science and Technology of China
@@ -585,7 +586,12 @@ IP-ASN,138369 // China Education and Research Network (CERNET)
 IP-ASN,24358 // CERNET2 IX at Huazhong University of Science and Technology
 IP-ASN,24359 // CERNET2 IX at Central South University
 IP-ASN,24360 // CERNET2 IX at Zhengzhou University
+IP-ASN,24361 // CERNET2 IX at Southeast University
 IP-ASN,24362 // CERNET2 IX at University of Science and Technology of China
+IP-ASN,24363 // CERNET2 IX at Shandong University
+IP-ASN,138371 // China Education and Research Network (CERNET)
+IP-ASN,24365 // CERNET2 IX at Fudan University
+IP-ASN,24366 // CERNET2 IX at Tongji University
 IP-ASN,24367 // CERNET2 IX at Zhejiang University
 IP-ASN,24368 // CERNET2 IX at Xiamen University
 IP-ASN,138373 // China Education and Research Network (CERNET)
@@ -700,7 +706,6 @@ IP-ASN,139161 // Xinjiang Rural Credit Union
 IP-ASN,139112 // "Shanghai Qnet Networking Technology Co.
 IP-ASN,24372 // CERNET2 IX at Harbin Institute of Technology
 IP-ASN,139317 // Ningbo Dahuamao Information Technology Co Ltd
-IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,151418 // Zhang Junkai
 IP-ASN,218796 // Yunsheng Deng
 IP-ASN,210352 // Yijia Xu
@@ -766,6 +771,7 @@ IP-ASN,150373 // Zhang Bocheng
 IP-ASN,142642 // Atonal System
 IP-ASN,213903 // Liuyang Zhang
 IP-ASN,132623 // Tsukeru Networks
+IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
 IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
@@ -781,6 +787,7 @@ IP-ASN,143349 // AS143349-186
 IP-ASN,143478 // AS143478-315
 IP-ASN,143568 // AS143568-405
 IP-ASN,143600 // AS143600-437
+IP-ASN,143666 // AS143666-503
 IP-ASN,143703 // AS143703-30
 IP-ASN,143878 // AS143878-205
 IP-ASN,143888 // AS143888-215
@@ -793,7 +800,9 @@ IP-ASN,144127 // AS144127-454
 IP-ASN,144140 // AS144140-467
 IP-ASN,144173 // AS144173-500
 IP-ASN,144191 // AS144191-6
+IP-ASN,144222 // AS144222-37
 IP-ASN,144263 // AS144263-78
+IP-ASN,144283 // AS144283-98
 IP-ASN,144284 // AS144284-99
 IP-ASN,144322 // AS144322-137
 IP-ASN,144327 // AS144327-142
@@ -803,6 +812,7 @@ IP-ASN,144526 // AS144526-341
 IP-ASN,144628 // AS144628-443
 IP-ASN,144630 // AS144630-445
 IP-ASN,145228 // AS145228-19
+IP-ASN,145238 // AS145238-29
 IP-ASN,145332 // AS145332-123
 IP-ASN,145387 // AS145387-178
 IP-ASN,145438 // AS145438-229
@@ -1040,6 +1050,7 @@ IP-ASN,205369 // LI YIRAN
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,201705 // Xinrun Li
+IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
 IP-ASN,207317 // Tiefu Chen
