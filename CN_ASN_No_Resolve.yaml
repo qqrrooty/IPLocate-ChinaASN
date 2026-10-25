@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-25 03:15:08.626Z
-# ASN: 1070
+# 最后更新： CST 2026-10-26 03:28:07.295Z
+# ASN: 1071
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -391,7 +391,6 @@ payload:
   - IP-ASN,7609
   - IP-ASN,58543
   - IP-ASN,146814
-  - IP-ASN,144912
   - IP-ASN,23852
   - IP-ASN,146812
   - IP-ASN,146771
@@ -804,6 +803,7 @@ payload:
   - IP-ASN,143600
   - IP-ASN,143666
   - IP-ASN,143703
+  - IP-ASN,143751
   - IP-ASN,143878
   - IP-ASN,143888
   - IP-ASN,143891
@@ -978,6 +978,7 @@ payload:
   - IP-ASN,140377
   - IP-ASN,140378
   - IP-ASN,215507
+  - IP-ASN,218380
   - IP-ASN,219378
   - IP-ASN,204518
   - IP-ASN,213876
