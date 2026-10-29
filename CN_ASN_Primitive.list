@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-29 05:31:51.533Z
-# ASN: 1077
+# 最后更新： CST 2026-10-30 05:32:29.201Z
+# ASN: 1080
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -301,6 +301,7 @@ IP-ASN,211575 // Rui Feng
 IP-ASN,56002 // BEIJING MARINE COMMUNICATION AND NAVIGATION CO.
 IP-ASN,4859 // The State Information Center of P.R.China
 IP-ASN,150374 // Jiang Men Shi Tian Da Cloud Co. Ltd
+IP-ASN,63658 // "Jangsu Bangrun Network Technology Co.
 IP-ASN,55966 // "Post Savings Bank of China Tower A
 IP-ASN,59067 // "Microsoft Mobile Alliance Internet Services Co.
 IP-ASN,59019 // "Beijing Kingsoft Cloud Internet Technology Co.
@@ -412,6 +413,7 @@ IP-ASN,138979 // "Guangzhou Shujie Suyuan Culture Communication Co.
 IP-ASN,24404 // "CNISP-Union Technology (Beijing) Co.
 IP-ASN,58850 // Bloomberg Financial Information (Beijing) Co Ltd
 IP-ASN,10206 // China Unicom Zhongwei Cloud
+IP-ASN,133465 // Duke Kunshan University
 IP-ASN,17428 // "21Vianet.Co.
 IP-ASN,133194 // Connections Hub Technology (Shanghai) Ltd. Company
 IP-ASN,134767 // CHINANET Sichuan province Chengdu MAN network
@@ -655,7 +657,6 @@ IP-ASN,211992 // Wei Tang
 IP-ASN,59265 // China telecom A?A?A? China Next Generation Internet
 IP-ASN,24302 // China Education and Research Network (CERNET)
 IP-ASN,150370 // "Beijing WuYuYunLian Network Technology Co.
-IP-ASN,133465 // Duke Kunshan University
 IP-ASN,154155 // "Suzhou Yesong Information Technology Co.
 IP-ASN,38323 // "Meifeng Advertising Co.
 IP-ASN,38587 // CERNET Internet Data Center
@@ -786,7 +787,6 @@ IP-ASN,132623 // Tsukeru Networks
 IP-ASN,142438 // Kasumi Networks Inc
 IP-ASN,139231 // Zero
 IP-ASN,151194 // Zhu Yucheng
-IP-ASN,141445 // Phoenix Network
 IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
 IP-ASN,142664 // AS142664-15
 IP-ASN,142690 // AS142690-41
@@ -809,6 +809,7 @@ IP-ASN,143878 // AS143878-205
 IP-ASN,143888 // AS143888-215
 IP-ASN,143891 // AS143891-218
 IP-ASN,143967 // AS143967-294
+IP-ASN,143984 // AS143984-311
 IP-ASN,144017 // AS144017-344
 IP-ASN,144029 // AS144029-356
 IP-ASN,144046 // AS144046-373
@@ -997,6 +998,7 @@ IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,49904 // Xiaodong Qi
 IP-ASN,204185 // Yuchen Ma
 IP-ASN,209645 // Jixian Zeng
+IP-ASN,209484 // "Jinan Xiangyun Tianhai Information Technology Co.
 IP-ASN,219283 // Haohao Zhang
 IP-ASN,214203 // "Nanning Huifa Technology Co.
 IP-ASN,214040 // RUNNAN WEN
@@ -1018,6 +1020,7 @@ IP-ASN,200545 // Liu Quanhao
 IP-ASN,214660 // junlin chen
 IP-ASN,219332 // Xiang Zhou
 IP-ASN,209556 // Benli Zhong
+IP-ASN,206315 // Shucheng Li
 IP-ASN,205603 // Xinyu Wei
 IP-ASN,205618 // Yichen Lu
 IP-ASN,205532 // Zichao Heng
