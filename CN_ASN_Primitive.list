@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-10-30 05:32:29.201Z
-# ASN: 1080
+# 最后更新： CST 2026-10-31 05:23:57.772Z
+# ASN: 1083
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -32,6 +32,7 @@ IP-ASN,139587 // China Telecom
 IP-ASN,23724 // "IDC
 IP-ASN,152672 // Aiyun (HK) Network
 IP-ASN,45102 // "Alibaba (US) Technology Co.
+IP-ASN,219278 // "Beijing Ruihao Kai Yuan Technology Co.
 IP-ASN,24429 // "Zhejiang Taobao Network Co.
 IP-ASN,37963 // "Hangzhou Alibaba Advertising Co.
 IP-ASN,134763 // CHINANET Guangdong province network
@@ -221,6 +222,7 @@ IP-ASN,154402 // "Shenzhen FredCloud Computing Technology Co.
 IP-ASN,205610 // Huanjie Zhu
 IP-ASN,131325 // CHINATELECOM JIANGSU province NANTONG MAN network
 IP-ASN,55967 // "Beijing Baidu Netcom Science and Technology Co.
+IP-ASN,63658 // "Jangsu Bangrun Network Technology Co.
 IP-ASN,45061 // "Shanghai Information Network Co.
 IP-ASN,63701 // "Jishi Media Co .
 IP-ASN,151253 // China Internet Network Information Center
@@ -301,7 +303,6 @@ IP-ASN,211575 // Rui Feng
 IP-ASN,56002 // BEIJING MARINE COMMUNICATION AND NAVIGATION CO.
 IP-ASN,4859 // The State Information Center of P.R.China
 IP-ASN,150374 // Jiang Men Shi Tian Da Cloud Co. Ltd
-IP-ASN,63658 // "Jangsu Bangrun Network Technology Co.
 IP-ASN,55966 // "Post Savings Bank of China Tower A
 IP-ASN,59067 // "Microsoft Mobile Alliance Internet Services Co.
 IP-ASN,59019 // "Beijing Kingsoft Cloud Internet Technology Co.
@@ -511,7 +512,6 @@ IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
 IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
 IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,151229 // China Internet Network Information Center
-IP-ASN,219278 // "Beijing Ruihao Kai Yuan Technology Co.
 IP-ASN,58862 // "Microsoft (China) Co.
 IP-ASN,38027 // "Information Center
 IP-ASN,141776 // Baoshuo Network
@@ -803,6 +803,8 @@ IP-ASN,143478 // AS143478-315
 IP-ASN,143568 // AS143568-405
 IP-ASN,143600 // AS143600-437
 IP-ASN,143666 // AS143666-503
+IP-ASN,143671 // AS143671-508
+IP-ASN,143677 // AS143677-4
 IP-ASN,143703 // AS143703-30
 IP-ASN,143751 // AS143751-78
 IP-ASN,143878 // AS143878-205
@@ -834,6 +836,7 @@ IP-ASN,144526 // AS144526-341
 IP-ASN,144611 // AS144611-426
 IP-ASN,144628 // AS144628-443
 IP-ASN,144630 // AS144630-445
+IP-ASN,145224 // AS145224-15
 IP-ASN,145228 // AS145228-19
 IP-ASN,145238 // AS145238-29
 IP-ASN,145332 // AS145332-123
