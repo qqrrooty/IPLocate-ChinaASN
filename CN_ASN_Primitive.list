@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-11-04 06:16:43.935Z
-# ASN: 1082
+# 最后更新： CST 2026-11-05 06:25:38.567Z
+# ASN: 1083
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -495,6 +495,7 @@ IP-ASN,151247 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
 IP-ASN,137690 // "Zaozhuang
 IP-ASN,24149 // Internet Domain Name System Beijing Engineering Resrarch Center Ltd.
+IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,9939 // "DYXNET of Shenzhen Communication Co.
 IP-ASN,219300 // Yan Xiangdong
 IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
@@ -508,7 +509,6 @@ IP-ASN,136250 // ZhongShanShi QiYi HuDong WangLuoKeJi Ltd
 IP-ASN,153726 // "Shanghai Huiduan Technology Co.
 IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
 IP-ASN,137264 // Wingmark Matrix (Wuhan) Computer Systems Co Ltd
-IP-ASN,154010 // Xi'an WeiShiJi Network Technology LTD
 IP-ASN,151229 // China Internet Network Information Center
 IP-ASN,58862 // "Microsoft (China) Co.
 IP-ASN,38027 // "Information Center
@@ -689,7 +689,6 @@ IP-ASN,151448 // AS151448-26
 IP-ASN,151450 // AS151450-28
 IP-ASN,151451 // AS151451-29
 IP-ASN,151452 // AS151452-30
-IP-ASN,151453 // AS151453-31
 IP-ASN,151454 // AS151454-32
 IP-ASN,151456 // AS151456-34
 IP-ASN,151457 // AS151457-35
@@ -796,6 +795,7 @@ IP-ASN,143349 // AS143349-186
 IP-ASN,143390 // AS143390-227
 IP-ASN,143478 // AS143478-315
 IP-ASN,143568 // AS143568-405
+IP-ASN,143596 // AS143596-433
 IP-ASN,143600 // AS143600-437
 IP-ASN,143666 // AS143666-503
 IP-ASN,143671 // AS143671-508
@@ -1050,12 +1050,12 @@ IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,208698 // Huang Zhijie
+IP-ASN,198266 // Yunrui Gu
 IP-ASN,216299 // Yang Liuchang
 IP-ASN,207303 // Xilin Xie
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,219397 // Liangmin Li
-IP-ASN,210773 // Yujie Zhao
 IP-ASN,198135 // YONG LI
 IP-ASN,218381 // SHICHAO TANG
 IP-ASN,214040 // RUNNAN WEN
@@ -1066,7 +1066,7 @@ IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,57330 // "Sichuan Giraffe Technology Co.
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
-IP-ASN,198078 // Hangzhou Silicon-based Agile Technology Limited
+IP-ASN,209601 // XiaoYuan Networks Limited
 IP-ASN,214963 // Puhe You
 IP-ASN,210738 // Peng Chen
 IP-ASN,212985 // Mingjie Wu
@@ -1076,6 +1076,7 @@ IP-ASN,213782 // Chang Xin
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,205369 // LI YIRAN
+IP-ASN,210773 // Yujie Zhao
 IP-ASN,201944 // HaoRan Liu
 IP-ASN,201705 // Xinrun Li
 IP-ASN,219078 // CHENG JIZHONG
