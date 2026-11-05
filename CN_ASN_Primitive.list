@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-11-05 06:25:38.567Z
-# ASN: 1083
+# 最后更新： CST 2026-11-06 06:33:23.382Z
+# ASN: 1089
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -394,13 +394,13 @@ IP-ASN,146814 // "Hong Kong University of Science and Technology
 IP-ASN,23852 // "17/FL
 IP-ASN,146812 // "Deutsche Bank (China) Co.
 IP-ASN,146771 // "CCB Fintech Co.
+IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
 IP-ASN,23771 // "SXBCTV
 IP-ASN,136180 // "Beijing Tiantexin Tech. Co.
 IP-ASN,63561 // "China Electronics Technology Cyber Security Co.
 IP-ASN,133118 // China Unicom IP network
 IP-ASN,139110 // Lenovo Mobile Communication Technology (Beijing) Ltd
 IP-ASN,151232 // China Internet Network Information Center
-IP-ASN,152092 // Henan Angran Cloud Computing Technology Co. Ltd
 IP-ASN,151313 // China Internet Network Information Center
 IP-ASN,63697 // "China Securities Co.
 IP-ASN,59073 // Bank of China Limited
@@ -504,7 +504,6 @@ IP-ASN,151284 // AS151284-69
 IP-ASN,135426 // ZTE Corporation
 IP-ASN,151277 // China Internet Network Information Center
 IP-ASN,151245 // China Internet Network Information Center
-IP-ASN,136769 // "Guangzhou Fengyun Information Technology Co.
 IP-ASN,136250 // ZhongShanShi QiYi HuDong WangLuoKeJi Ltd
 IP-ASN,153726 // "Shanghai Huiduan Technology Co.
 IP-ASN,153725 // Tenonet (Hangzhou) Co Ltd
@@ -565,7 +564,6 @@ IP-ASN,150173 // PoloCloud Computing (Hong Kong) Limited
 IP-ASN,149979 // China Telecom
 IP-ASN,45074 // Data Management Centre National Bureau of Statistics of China
 IP-ASN,63555 // Beijing Beilong Yunhai Network Data Technology Corporation
-IP-ASN,45064 // "BEIJING ZHONGGUANCUN SOFTWARE PARK DEVELOPMENT CO.
 IP-ASN,149178 // China Telecom
 IP-ASN,132833 // China Telecom
 IP-ASN,56000 // "HERBALIFE(SHANGHAI)MANAGEMENT CO.
@@ -662,6 +660,7 @@ IP-ASN,151331 // Sora You
 IP-ASN,216173 // Guozhen Liu
 IP-ASN,9425 // China Education and Research Network (CERNET)
 IP-ASN,151423 // AS151423-1
+IP-ASN,151424 // AS151424-2
 IP-ASN,151425 // AS151425-3
 IP-ASN,151426 // AS151426-4
 IP-ASN,151427 // AS151427-5
@@ -686,10 +685,13 @@ IP-ASN,151445 // AS151445-23
 IP-ASN,151446 // AS151446-24
 IP-ASN,151447 // AS151447-25
 IP-ASN,151448 // AS151448-26
+IP-ASN,151449 // AS151449-27
 IP-ASN,151450 // AS151450-28
 IP-ASN,151451 // AS151451-29
 IP-ASN,151452 // AS151452-30
+IP-ASN,151453 // AS151453-31
 IP-ASN,151454 // AS151454-32
+IP-ASN,151455 // AS151455-33
 IP-ASN,151456 // AS151456-34
 IP-ASN,151457 // AS151457-35
 IP-ASN,151458 // AS151458-36
@@ -761,7 +763,6 @@ IP-ASN,152930 // Lin Xiangliang
 IP-ASN,153033 // Shang Xu
 IP-ASN,153034 // Wang Lin
 IP-ASN,136535 // Yang Mengqi
-IP-ASN,199932 // Tianle Shi
 IP-ASN,152921 // Yu Dong
 IP-ASN,153330 // Northern Lights Technologies LLC
 IP-ASN,153332 // InnoCloud Services LLC
@@ -824,6 +825,7 @@ IP-ASN,144283 // AS144283-98
 IP-ASN,144284 // AS144284-99
 IP-ASN,144322 // AS144322-137
 IP-ASN,144327 // AS144327-142
+IP-ASN,144344 // AS144344-159
 IP-ASN,144345 // AS144345-160
 IP-ASN,144394 // AS144394-209
 IP-ASN,144398 // AS144398-213
@@ -834,10 +836,12 @@ IP-ASN,144526 // AS144526-341
 IP-ASN,144611 // AS144611-426
 IP-ASN,144628 // AS144628-443
 IP-ASN,144630 // AS144630-445
+IP-ASN,145205 // AS145205-508
 IP-ASN,145212 // AS145212-3
 IP-ASN,145224 // AS145224-15
 IP-ASN,145228 // AS145228-19
 IP-ASN,145238 // AS145238-29
+IP-ASN,145259 // AS145259-50
 IP-ASN,145332 // AS145332-123
 IP-ASN,145371 // AS145371-162
 IP-ASN,145376 // AS145376-167
@@ -1056,6 +1060,7 @@ IP-ASN,207303 // Xilin Xie
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,219397 // Liangmin Li
+IP-ASN,201770 // Ji Tianyu Trading as Chengdu Chenghua District Suanwei Space Information Technology Studio
 IP-ASN,198135 // YONG LI
 IP-ASN,218381 // SHICHAO TANG
 IP-ASN,214040 // RUNNAN WEN
@@ -1066,6 +1071,7 @@ IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
 IP-ASN,57330 // "Sichuan Giraffe Technology Co.
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
+IP-ASN,219489 // Zhengda Li
 IP-ASN,209601 // XiaoYuan Networks Limited
 IP-ASN,214963 // Puhe You
 IP-ASN,210738 // Peng Chen
