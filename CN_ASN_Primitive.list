@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-11-07 05:57:58.219Z
-# ASN: 1089
+# 最后更新： CST 2026-11-08 04:40:53.261Z
+# ASN: 1094
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511 // "Yamu Technologies Co.
@@ -309,6 +309,7 @@ IP-ASN,150166 // The New Development Bank
 IP-ASN,9811 // Development & Research Center of State Council Net.
 IP-ASN,212237 // Changgong Zhang
 IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
+IP-ASN,151263 // China Internet Network Information Center
 IP-ASN,59049 // "Wal-mart (China) Investment Co.
 IP-ASN,139137 // Chinese Academy of Telecommunication Research
 IP-ASN,63580 // "China Novartis Institutes for Bio-Medical Research Co.
@@ -488,6 +489,7 @@ IP-ASN,154315 // Guangzhou Leidianyun Technology Co Ltd
 IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,136195 // "Qingdao
+IP-ASN,151490 // GaonIT
 IP-ASN,138401 // TupleTech Corporation
 IP-ASN,151247 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -775,7 +777,6 @@ IP-ASN,152697 // Nanning Huifa Technology Co Ltd
 IP-ASN,142586 // Zhuhai Xiyun Cloud Technology Co Ltd
 IP-ASN,150373 // Zhang Bocheng
 IP-ASN,142642 // Atonal System
-IP-ASN,151490 // GaonIT
 IP-ASN,213903 // Liuyang Zhang
 IP-ASN,132623 // Tsukeru Networks
 IP-ASN,142438 // Kasumi Networks Inc
@@ -785,6 +786,7 @@ IP-ASN,58828 // GUANGDONG RURAL CREDIT UNION
 IP-ASN,142664 // AS142664-15
 IP-ASN,142690 // AS142690-41
 IP-ASN,142944 // AS142944-295
+IP-ASN,143039 // AS143039-390
 IP-ASN,143042 // AS143042-393
 IP-ASN,143170 // AS143170-7
 IP-ASN,143171 // AS143171-8
@@ -832,6 +834,7 @@ IP-ASN,144394 // AS144394-209
 IP-ASN,144398 // AS144398-213
 IP-ASN,144405 // AS144405-220
 IP-ASN,144441 // AS144441-256
+IP-ASN,144445 // AS144445-260
 IP-ASN,144446 // AS144446-261
 IP-ASN,144526 // AS144526-341
 IP-ASN,144566 // AS144566-381
@@ -999,7 +1002,9 @@ IP-ASN,215507 // KAI BI
 IP-ASN,218380 // Yanjun Xu
 IP-ASN,219378 // ZHANG XIYUAN
 IP-ASN,204518 // Shiyu Zhou
+IP-ASN,213876 // Qiyuan Chen
 IP-ASN,218883 // "Melspectrum Technology Co.
+IP-ASN,214955 // Weikang Zeng
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,206574 // "Beijing GongGongFa Technology Co.
 IP-ASN,219207 // YIYUAN CHEN
@@ -1055,12 +1060,13 @@ IP-ASN,212982 // Lu Wang
 IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,208698 // Huang Zhijie
+IP-ASN,198266 // Yunrui Gu
 IP-ASN,216299 // Yang Liuchang
 IP-ASN,207303 // Xilin Xie
-IP-ASN,213876 // Qiyuan Chen
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,219397 // Liangmin Li
+IP-ASN,210773 // Yujie Zhao
 IP-ASN,201770 // Ji Tianyu Trading as Chengdu Chenghua District Suanwei Space Information Technology Studio
 IP-ASN,198135 // YONG LI
 IP-ASN,218381 // SHICHAO TANG
@@ -1073,7 +1079,6 @@ IP-ASN,212793 // Xiwei Ye
 IP-ASN,57330 // "Sichuan Giraffe Technology Co.
 IP-ASN,199406 // Jin Han Shen trading as Yinyun Network Technology Studio
 IP-ASN,219489 // Zhengda Li
-IP-ASN,209601 // XiaoYuan Networks Limited
 IP-ASN,214963 // Puhe You
 IP-ASN,210738 // Peng Chen
 IP-ASN,212985 // Mingjie Wu
@@ -1083,12 +1088,12 @@ IP-ASN,213782 // Chang Xin
 IP-ASN,210176 // Haoyi Xiang
 IP-ASN,207299 // "Zhijiang Zangque Trading Co.
 IP-ASN,205369 // LI YIRAN
-IP-ASN,210773 // Yujie Zhao
+IP-ASN,201944 // HaoRan Liu
 IP-ASN,201705 // Xinrun Li
 IP-ASN,219078 // CHENG JIZHONG
 IP-ASN,203643 // lai gao
 IP-ASN,219016 // Zizhao Wang trading as Atelier Miku
+IP-ASN,207317 // Tiefu Chen
 IP-ASN,216100 // Rui Li
 IP-ASN,205008 // Junqi Huang
-IP-ASN,214955 // Weikang Zeng
 IP-ASN,201235 // Chen Xi
