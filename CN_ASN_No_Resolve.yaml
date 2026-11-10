@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-11-09 04:58:47.751Z
-# ASN: 1094
+# 最后更新： CST 2026-11-10 08:34:09.250Z
+# ASN: 1098
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 payload:
@@ -200,6 +200,7 @@ payload:
   - IP-ASN,204211
   - IP-ASN,218668
   - IP-ASN,213605
+  - IP-ASN,135671
   - IP-ASN,133846
   - IP-ASN,7721
   - IP-ASN,210041
@@ -764,6 +765,7 @@ payload:
   - IP-ASN,153033
   - IP-ASN,153034
   - IP-ASN,136535
+  - IP-ASN,199932
   - IP-ASN,152921
   - IP-ASN,153330
   - IP-ASN,153332
@@ -1045,7 +1047,6 @@ payload:
   - IP-ASN,209261
   - IP-ASN,62230
   - IP-ASN,210426
-  - IP-ASN,135671
   - IP-ASN,198516
   - IP-ASN,214921
   - IP-ASN,214871
@@ -1061,6 +1062,7 @@ payload:
   - IP-ASN,213545
   - IP-ASN,202396
   - IP-ASN,208698
+  - IP-ASN,218167
   - IP-ASN,198266
   - IP-ASN,216299
   - IP-ASN,207303
@@ -1074,11 +1076,13 @@ payload:
   - IP-ASN,214040
   - IP-ASN,200472
   - IP-ASN,214610
+  - IP-ASN,213582
   - IP-ASN,213116
   - IP-ASN,205779
   - IP-ASN,212793
   - IP-ASN,57330
   - IP-ASN,199406
+  - IP-ASN,199353
   - IP-ASN,219489
   - IP-ASN,214963
   - IP-ASN,210738
