@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-11-13 06:35:31.917Z
+# 最后更新： CST 2026-11-14 06:24:14.937Z
 # ASN: 1106
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -490,6 +490,7 @@ IP-ASN,59078 // Yunify Technologies Inc.
 IP-ASN,37965 // Pacnet Business Solutions LTD
 IP-ASN,136195 // "Qingdao
 IP-ASN,151490 // GaonIT
+IP-ASN,155102 // Argsment Limited
 IP-ASN,138401 // TupleTech Corporation
 IP-ASN,151247 // China Internet Network Information Center
 IP-ASN,137787 // Beijing Jingdong Shangke Information Technology Co. Ltd.
@@ -829,6 +830,7 @@ IP-ASN,144211 // AS144211-26
 IP-ASN,144222 // AS144222-37
 IP-ASN,144229 // AS144229-44
 IP-ASN,144247 // AS144247-62
+IP-ASN,144250 // AS144250-65
 IP-ASN,144263 // AS144263-78
 IP-ASN,144283 // AS144283-98
 IP-ASN,144284 // AS144284-99
@@ -867,6 +869,7 @@ IP-ASN,145502 // AS145502-293
 IP-ASN,145550 // AS145550-341
 IP-ASN,145551 // AS145551-342
 IP-ASN,145596 // AS145596-387
+IP-ASN,145597 // AS145597-388
 IP-ASN,145674 // AS145674-465
 IP-ASN,137726 // China Petroleum & Chemical Corporation
 IP-ASN,45275 // BII Group Holdings Ltd
@@ -1016,7 +1019,6 @@ IP-ASN,218883 // "Melspectrum Technology Co.
 IP-ASN,214955 // Weikang Zeng
 IP-ASN,203236 // Mingyang Shen
 IP-ASN,209481 // HaoYu Deng
-IP-ASN,206574 // "Beijing GongGongFa Technology Co.
 IP-ASN,219207 // YIYUAN CHEN
 IP-ASN,49904 // Xiaodong Qi
 IP-ASN,204185 // Yuchen Ma
@@ -1070,13 +1072,11 @@ IP-ASN,213545 // Wang Lei
 IP-ASN,202396 // Zeng Yukai
 IP-ASN,208698 // Huang Zhijie
 IP-ASN,219519 // JiaYang Li
-IP-ASN,218167 // Qiyu Huang
 IP-ASN,198266 // Yunrui Gu
 IP-ASN,216299 // Yang Liuchang
 IP-ASN,207303 // Xilin Xie
 IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
-IP-ASN,219397 // Wenzhou Cloud LLC
 IP-ASN,210773 // Yujie Zhao
 IP-ASN,201770 // Ji Tianyu Trading as Chengdu Chenghua District Suanwei Space Information Technology Studio
 IP-ASN,198135 // YONG LI
