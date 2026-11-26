@@ -1,5 +1,5 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-11-25 09:16:26.440Z
+# 最后更新： CST 2026-11-26 08:52:17.147Z
 # ASN: 1134
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
@@ -163,9 +163,9 @@ IP-ASN,133952 // Zhengzhou longling technology ltd.
 IP-ASN,23848 // "Shenzhen Ping An Communication Technology Co.
 IP-ASN,4816 // China Telecom (Group)
 IP-ASN,59009 // QingDao WangXin Telcom Corp. Limited
-IP-ASN,134771 // "WENZHOU
 IP-ASN,138421 // China Unicom
 IP-ASN,63647 // Beijing WangJu Interworking Information Technology Co. LTD
+IP-ASN,134771 // "WENZHOU
 IP-ASN,55999 // "Shanghai Sakura Communications Co.
 IP-ASN,139118 // "Shanghai Rugu Info&Tech Co.
 IP-ASN,146817 // "Hubei Feixun Network Co.
@@ -195,7 +195,6 @@ IP-ASN,212532 // XIAO YANG WEN RUI
 IP-ASN,203991 // Hainan Jinzhao Biotechnology Co. Ltd.
 IP-ASN,151673 // Chen Xinyu
 IP-ASN,215502 // Xing Qingyu
-IP-ASN,208754 // XingRui Li
 IP-ASN,204211 // "Shanghai Yingyun Network Technology Co.
 IP-ASN,218668 // XU YINUO
 IP-ASN,213605 // Haoran Liu
@@ -436,7 +435,6 @@ IP-ASN,152186 // Mintel Holding Limited
 IP-ASN,55956 // "Magna Automotive Technology and Service(Shanghai)Co.
 IP-ASN,63838 // Hengyang
 IP-ASN,24413 // 263 Shanghai Communications Ltd.
-IP-ASN,9812 // "Oriental Cable Network Co.
 IP-ASN,56282 // "Beijing Internet Harbor Technology Co.
 IP-ASN,140903 // China Telecom
 IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
@@ -476,6 +474,7 @@ IP-ASN,38381 // "west wing no.157
 IP-ASN,17775 // shanghai science and technology network communication limited company
 IP-ASN,63641 // "Mega Vantage Information Consulting Co.
 IP-ASN,131536 // "Shanghai Great Wall Broadband Network Service Co.
+IP-ASN,9812 // "Oriental Cable Network Co.
 IP-ASN,139721 // China Telecom
 IP-ASN,9802 // Abitcool(China) Inc.
 IP-ASN,9814 // "Beijing FibrLINK Networks Co.
@@ -648,7 +647,6 @@ IP-ASN,142102 // AS142102-36
 IP-ASN,142104 // AS142104-38
 IP-ASN,142105 // AS142105-39
 IP-ASN,142106 // AS142106-40
-IP-ASN,154185 // Liu HaoRan
 IP-ASN,205794 // JINZE YANG
 IP-ASN,211992 // Wei Tang
 IP-ASN,59265 // China telecom A?A?A? China Next Generation Internet
@@ -1042,6 +1040,7 @@ IP-ASN,204518 // Shiyu Zhou
 IP-ASN,213876 // Qiyuan Chen
 IP-ASN,218883 // "Melspectrum Technology Co.
 IP-ASN,214955 // Weikang Zeng
+IP-ASN,208754 // XingRui Li
 IP-ASN,203236 // Mingyang Shen
 IP-ASN,209481 // HaoYu Deng
 IP-ASN,206574 // "Beijing GongGongFa Technology Co.
@@ -1068,7 +1067,6 @@ IP-ASN,200103 // XUAN ZHU
 IP-ASN,200789 // Wei Teng LIn
 IP-ASN,200936 // Chengjie Guo
 IP-ASN,200545 // Liu Quanhao
-IP-ASN,214660 // junlin chen
 IP-ASN,219208 // MAOQUN QIU
 IP-ASN,219332 // Xiang Zhou
 IP-ASN,209556 // Benli Zhong
@@ -1109,12 +1107,14 @@ IP-ASN,202335 // Zhanrui Tian
 IP-ASN,198681 // Jinquan Zeng
 IP-ASN,204142 // Qiankai Lin
 IP-ASN,210773 // Yujie Zhao
+IP-ASN,154185 // Liu HaoRan
 IP-ASN,201770 // Ji Tianyu Trading as Chengdu Chenghua District Suanwei Space Information Technology Studio
 IP-ASN,198135 // YONG LI
 IP-ASN,218381 // SHICHAO TANG
 IP-ASN,214040 // RUNNAN WEN
 IP-ASN,200472 // xiao yuqing
 IP-ASN,214610 // YangXu Liao
+IP-ASN,214660 // junlin chen
 IP-ASN,213116 // "Guangzhou Bigao Network Technology Co.
 IP-ASN,205779 // Tianhang Yuan
 IP-ASN,212793 // Xiwei Ye
