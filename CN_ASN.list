@@ -1,6 +1,6 @@
 # CN 的 ASN 信息
-# 最后更新： CST 2026-11-26 08:52:17.147Z
-# ASN: 1134
+# 最后更新： CST 2026-11-27 08:57:18.684Z
+# ASN: 1137
 # 来源 IPLocate.io（https://iplocate.io），由 qqrrooty 制作。
 
 IP-ASN,149511,no-resolve
@@ -195,6 +195,7 @@ IP-ASN,212532,no-resolve
 IP-ASN,203991,no-resolve
 IP-ASN,151673,no-resolve
 IP-ASN,215502,no-resolve
+IP-ASN,208754,no-resolve
 IP-ASN,204211,no-resolve
 IP-ASN,218668,no-resolve
 IP-ASN,213605,no-resolve
@@ -216,7 +217,6 @@ IP-ASN,214575,no-resolve
 IP-ASN,4842,no-resolve
 IP-ASN,58026,no-resolve
 IP-ASN,154402,no-resolve
-IP-ASN,205610,no-resolve
 IP-ASN,131325,no-resolve
 IP-ASN,55967,no-resolve
 IP-ASN,63658,no-resolve
@@ -513,6 +513,7 @@ IP-ASN,38027,no-resolve
 IP-ASN,141776,no-resolve
 IP-ASN,151823,no-resolve
 IP-ASN,56019,no-resolve
+IP-ASN,218110,no-resolve
 IP-ASN,134417,no-resolve
 IP-ASN,24376,no-resolve
 IP-ASN,134421,no-resolve
@@ -825,6 +826,7 @@ IP-ASN,143950,no-resolve
 IP-ASN,143967,no-resolve
 IP-ASN,143984,no-resolve
 IP-ASN,144017,no-resolve
+IP-ASN,144024,no-resolve
 IP-ASN,144029,no-resolve
 IP-ASN,144046,no-resolve
 IP-ASN,144055,no-resolve
@@ -849,6 +851,7 @@ IP-ASN,144283,no-resolve
 IP-ASN,144284,no-resolve
 IP-ASN,144322,no-resolve
 IP-ASN,144327,no-resolve
+IP-ASN,144329,no-resolve
 IP-ASN,144344,no-resolve
 IP-ASN,144345,no-resolve
 IP-ASN,144394,no-resolve
@@ -866,6 +869,7 @@ IP-ASN,144611,no-resolve
 IP-ASN,144628,no-resolve
 IP-ASN,144630,no-resolve
 IP-ASN,144640,no-resolve
+IP-ASN,144656,no-resolve
 IP-ASN,144676,no-resolve
 IP-ASN,144682,no-resolve
 IP-ASN,145205,no-resolve
@@ -1033,14 +1037,13 @@ IP-ASN,140375,no-resolve
 IP-ASN,140376,no-resolve
 IP-ASN,140377,no-resolve
 IP-ASN,140378,no-resolve
-IP-ASN,215507,no-resolve
 IP-ASN,218380,no-resolve
+IP-ASN,215507,no-resolve
 IP-ASN,219378,no-resolve
 IP-ASN,204518,no-resolve
 IP-ASN,213876,no-resolve
 IP-ASN,218883,no-resolve
 IP-ASN,214955,no-resolve
-IP-ASN,208754,no-resolve
 IP-ASN,203236,no-resolve
 IP-ASN,209481,no-resolve
 IP-ASN,206574,no-resolve
